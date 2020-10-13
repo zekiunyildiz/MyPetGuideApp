@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="animals">
+        <item>Veteriner Adresleri</item>
+        <item>Barınak Adresleri</item>
+        <item>Shih Tzu</item>
+        <item>Chihuahua (Şivava)</item>
+        <item>Amerikan Eskimo Köpeği</item>
+        <item>Papillon</item>
+        <item>Pug</item>
+        <item>Beagle</item>
+        <item>Mavi Rus Kedisi</item>
+        <item>Fars Kedisi</item>
+        <item>Siyam Kedisi</item>
+        <item>Scottish Fold</item>
+        <item>Ankara Kedisi</item>
+        <item>Van Kedisi</item>
+    </string-array>
+
+    <string-array name="animalKinds">
+        <item>İstanbul</item>
+        <item>İstanbul</item>
+        <item>Köpek</item>
+        <item>Köpek</item>
+        <item>Köpek</item>
+        <item>Köpek</item>
+        <item>Köpek</item>
+        <item>Köpek</item>
+        <item>Kedi</item>
+        <item>Kedi</item>
+        <item>Kedi</item>
+        <item>Kedi</item>
+        <item>Kedi</item>
+        <item>Kedi</item>
+    </string-array>
+
+    <string-array name="animalGenelOzellikleri">
+
+        <item>
+            \nArnavutköy
+            \n-Arnavutköy Veteriner Kliniği
+            \nMerkez Mah. M.Akif Ersoy Cad. No:61/1\n
+            \nAtaşehir
+            \n-Batı Ataşehir Veteriner Kliniği
+            \nBarbaros, Mimar Sinan, Bahçecik No:4/1
+            \n0216 315 34 35
+            \n-Evcil Dostum Veteriner Kliniği
+            \nÖrnek Mah. G-42 Sok. No:6
+            \n0216 566 08 92\n
+            \nAvcılar
+            \n-Avcılar Veteriner Kliniği
+            \nPlaj Yolu Sok. No.6
+            \n0212 695 44 10
+            \n-Firuzköy Veteriner Kliniği
+            \nHasan Önel Cad. No:57
+            \n0212 690 30 84
+            \n-Golden Veteriner Kliniği
+            \nPlaj Yolu No:15/1
+            \n0212 591 05 64
+            \n-Medicus Veteriner Kliniği
+            \nReşitpaşa Cad. No:98
+            \n0212 509 23 19
+            \n-Minion Veteriner Kliniği
+            \nDr. Sadık Ahmet Cad. No:258/F
+            \n0212 591 81 73
+            \n-New-Vet Veteriner Kliniği
+            \nCumhuriyet Cad. No:23
+            \n0212 676 77 65
+            \n-Pet Dünyası Veteriner Kliniği
+            \nCumhuriyet Cad. No:46
+            \n0212 694 02 54
+            \n-Saha Veteriner Kliniği
+            \nAmbarlı Mah. Cumhuriyet Cad. No:26
+            \n0212 694 94 02
+            \n-Süper Veteriner Kliniği
+            \nÇiğdem
+            \n0212 694 51 22\n
+            \nBağcılar
+            \n-Güneşli Ada Veteriner Kliniği
+            \nHürriyet, No:25/E, Atatürk Cd.
+            \n0552 651 44 05
+            \n-ŞirinVet Pet ve Kuş Veteriner Kliniği
+            \nBahçelievler Merkez, Eski Londra Asf Cd No:134/A
+            \n0212 607 17 00
+            \n-Güneşli Ada Veteriner Kliniği
+            \nBahçelievler Merkez, Eski Londra Asf Cd No:134/A
+            \n0212 607 17 00
+            \n-Bağcılar Veteriner Kliniği
+            \n25, 680. Sk,
+            \n0530 871 87 97
+            \n-Güneşli Veteriner Kliniği
+            \nBağlar, Köyceğiz Sk. 46/B
+            \n0212) 550 58 38\n
+            \nBahçelievler
+            \n-Animales Veterininaria
+            \nNaci Kasım
+            \n0212 642 53 91
+            \n-Bahçelievler Veteriner Kliniği
+            \nTalatpaşa Bulvarı, Ali Reşat Paşa Sok. No:9/3
+            \n0212 554 24 82
+            \n-Candy Veteriner Kliniği
+            \nFerit Selimpaşa Cad. Demet Sok. Çevre Apt.
+            \n0212 502 06 20
+            \n-Dost Veteriner Kliniği
+            \nÇörekotu Okul
+            \n0212 557 02 01
+            \n-Healhy Pet Veteriner Kliniği
+            \nFevzi Çakmak Cad. Uygun Apt. No:21/2
+            \n0212 441 18 17
+            \n-Panda Vet Veteriner Kliniği
+            \nİzzettin Çalışlar Cad. No:5/1
+            \n0212 502 87 08
+            \n-Yaşam Veteriner Kliniği
+            \nÜnverdi Amiral Nejdet Uran
+            \n0212 556 13 88
+            \n-Yenibosna Veteriner Kliniği
+            \nY.Beyazıt Cad. No:205
+            \n0212 451 06 37\n
+            \nBakırköy
+            \n-Animal Health Center
+            \nZuhuratbaba Mah. Rauf Yekta Sok. No:14
+            \n0212 571 83 04
+            \n-Ataköy Sevgi Veteriner Kliniği
+            \nAtaköy 7-8 Kısım, Martı Sit. L-13-B No:11
+            \n0212 661 44 80
+            \n-Ataköy Veteriner Kliniği
+            \nAtaköy 1.Kısım Sporcu Sok.
+            \n0212 583 10 06
+            \n-Bakırköy Veteriner Kliniği
+            \nCevizlik Mah. İstanbul Cad. Hamam Sok. No:24/1
+            \n0212 542 92 88
+            \n-Bakırköy Veteriner Kliniği
+            \nKartaltepe Mah. Başarı Sok. No:17
+            \n0212 483 17 10
+            \n-Benek Veteriner Kliniği
+            \nZuhuratbaba Mah. Vankulu Sok.
+            \n0212 660 69 02
+            \n-Doğuş Veteriner Kliniği
+            \nÜmraniye Yeşilköy Sarıyakup
+            \n0212 574 04 00
+            \n-Elif Veteriner Kliniği
+            \nAtaköy 4.Kısım Çarşısı
+            \n0212 661 25 04
+            \n-Family Veteriner Kliniği
+            \nBahçesaray Sok. No:6
+            \n0212 542 08 07
+            \n-Greenpet Veteriner Kliniği
+            \nHalkalı Cad. No:50 Yeşilköy
+            \n0212 662 22 92
+            \n-Keima Veteriner Kliniği
+            \nOsmaniye Mah. Çobançeşme Sok. No:4
+            \n0212 660 81 36
+            \n-Medicine Veteriner Kliniği
+            \nYeşilköy, Mahmut Şevket Paşa
+            \n0212 574 17 92
+            \n-Minik Kalpler Veteriner Kliniği
+            \nKartaltepe Mah. Yeni Cad. No:12/A
+            \n0212 660 20 45
+            \n-Özgür Veteriner Kliniği
+            \nYeşilköy, Ziya Erdem Cad. No:14/1
+            \n0212 662 60 30
+            \n-Pet Care Veteriner Kliniği
+            \nBostan Sok. No:34/1 Yeşilköy
+            \n0212 662 73 76
+            \n-Pet Line Veteriner Kliniği
+            \nZuhuratbaba Mah. Yücetarla Cad. No:62
+            \n0212 660 08 69
+            \n-Pet Park Veteriner Kliniği
+            \nYunus Nadi Sok. No:32 Soysal Apt. No:4
+            \n0212 660 40 37
+            \n-Petek Veteriner Kliniği
+            \nSakızağacı Mah. Heyet Sok. No:22/A
+            \n0212 570 40 81
+            \n-Pupy Veteriner Kliniği
+            \nAtaköy 7-8.Kısım Yosun18 No:137
+            \n0212 560 40 08
+            \n-Seçkin Veteriner Kliniği
+            \nCevizlik Mah. İstanbul Cad. Hamam Sok.
+            \n0212 583 77 23
+            \n-Smarty Veteriner Kliniği
+            \nKartaltepe Mah. İncirli Cad. Ahu Sok.
+            \n0212 583 13 60
+            \n-Şenlikköy Veteriner Kliniği
+            \nFlorya, Şenlikköy
+            \n0212 580 78 78
+            \n-Yeşilköy Veteriner Kliniği
+            \nBelirtilmemiş
+            \nBelirtilmemiş
+            \n-Yeşilyurt Veteriner Kliniği
+            \nYeşilyurt, Ekin Sok. Seyran Apt. No:29
+            \n0212 663 94 37\n
+            \nBaşakşehir
+            \n-Asya Veteriner Kliniği
+            \nBadem 08, Villa 02
+            \nBelirtilmemiş
+            \n-Bahçeşehir Veteriner Kliniği
+            \nDefne 4, Villa 9/B
+            \n0212 608 09 21
+            \n-Başakşehir Veteriner Kliniği
+            \n4.Etap 2.Kısım S32 Villa
+            \nBelirtilmemiş
+            \n-Boğazköy Veteriner Kliniği
+            \nBahçeşehir 2.Kısım Mah. Boğazköy Mevkii,
+            \nKoşuyolu Hoşseda Sit. F Giriş No:2
+            \n0212 607 09 39
+            \n-Gözde Veteriner Kliniği
+            \nBahçeşehir Defne 04 Villa 07
+            \n0212 672 27 44
+            \n-Güner Veteriner Kliniği
+            \nSığırcık Sok. Badem 05, Villa 12/B
+            \n0212 608 04 32
+            \n-Mert Veteriner Kliniği
+            \nİstiklal Cad. No:57
+            \n0212 691 18 21
+            \n-Organize Veteriner Kliniği
+            \nİkitelli Organize San. Böl. Triko Center Sit. 9M Blok. No:506
+            \n0212 549 63 18
+            \n-Ovacık Veteriner Kliniği
+            \nİstiklal Cad. No:261/D
+            \n0212 691 12 48
+            \n-Patiler Veteriner Kliniği
+            \nBahçeşehir 2.Kısım Boğazköy 1.Cad. Çalışkan Karıncalar Sit. L-2 D Blok No:2
+            \n0212 607 32 44
+            \n-Patti Veteriner Kliniği
+            \nBelirtilmemiş
+            \n0212 607 17 00
+            \n-Three R Veteriner Kliniği
+            \n2.Kısım, Rumeli Cad. Verde Molino Avm. Nilüfer Katı
+            \n0212 607 24 55\n
+            \nBayrampaşa
+            \n-Bayrampaşa Veteriner Kliniği
+            \nYıldırım, Şht. Kamil Balkan Cd. D:No: 74
+            \n0212 535 42 92
+            \n-Bayrampaşa Terapi Veteriner Kliniği
+            \nİsmet Paşa, İsmet Paşa Cd. no 43/A
+            \n0554 589 95 84
+            \n-Kronik Veteriner Kliniği
+            \nEski Edirne Asfaltı No:379B
+            \n0212 479 44 42
+            \n-Pet Address Veteriner Kliniği
+            \nYenidoğan Mah. Atışalanı Cad. No:3
+            \n0212 613 78 78\n
+            \nBeşiktaş
+            \n-Anemon Veteriner Kliniği
+            \nAkatlar Mah. Zeytinoğlu Cad. No:23/1
+            \n0212 352 00 80
+            \n-Animal Doctors Veteriner Kliniği
+            \nOrtaköy, Muallim Naci Işık Apt. No:39/3
+            \n0212 261 51 22
+            \n-Animate Veteriner Kliniği
+            \n3.Levent, Sülün, 12 Aralık
+            \n0212 282 38 38
+            \n-Arı Veteriner Kliniği
+            \n4.Gazeteciler Sit. Ebulula Cad. 3. Levent
+            \n0212 281 73 54
+            \n-Barbaros Veteriner Kliniği
+            \nCihannüma Mah. Babaros Bulvarı Bostanveli Sok. No:10/A
+            \n0212 227 36 77
+            \n-Bebek Veteriner Kliniği
+            \nBebek, Manolya
+            \n0212 263 42 93
+            \n-Beşiktaş Veteriner Kliniği
+            \nIhlamurdere, Mısırbahçe
+            \n0212 259 31 88
+            \n-Candy Veteriner Kliniği
+            \nYıldız Posta Cad. Süleyman Bey Sok. No:10/B Gayrettepe
+            \n0212 288 24 41
+            \n-DogCat Veteriner Kliniği
+            \nKırbaç Sok. No:31/D
+            \n0212 263 43 29
+            \n-Elephant Veteriner Kliniği
+            \nLevent, Ebulula Mardin Cad. 4.Gazeteciler Sit.
+            \n0212 281 03 96
+            \n-Etiler Veteriner Kliniği
+            \nAkatlar, Zeytinoğlu Cad. Murat Sok. No:8
+            \n0212 351 97 38
+            \n-Evren Veteriner Kliniği
+            \n1.Levent, Nispetiye Mah. Birlik Sok. No:24/1
+            \n0212 280 60 50
+            \n-Felis Veteriner Kliniği
+            \nEtiler, Seher Yıldızı Sok.
+            \n0212 287 81 83
+            \n-Hayat Veteriner Kliniği
+            \nOrtaköy, Mecidiye Mah. M.Saadettin
+            \nBelirtilmemiş
+            \n-Ju-En Veteriner Kliniği
+            \nBelirtilmemiş
+            \nBelirtilmemiş
+            \n-Maçka Veteriner Kliniği
+            \nNişantaşı Spor Refik Osman Top Sok. Baykal Apt.
+            \nBelirtilmemiş
+            \n-Nişantaşı Veteriner Kliniği
+            \nNişantaşı, Vali Konağı Cad. Akkavak
+            \n0212 230 69 01
+            \n-Ortaköy Veteriner Kliniği
+            \nOrtaköy, Dereboyu, Lozan
+            \n0212 236 23 73
+            \n-Pan Veteriner Kliniği
+            \nOrtaköy, Dereboyu
+            \n0212 261 06 77
+            \n-Pati-Pata Veteriner Kliniği
+            \nEtiler, Nispetiye Yıldız Çiçeği
+            \n0212 257 00 41
+            \n-Pet Port Veteriner Kliniği
+            \nZeytinoğlu Cad. No:8 Banka Evleri A1 Blok D:2
+            \n0212 352 80 08
+            \n-Pet Services Veteriner Kliniği
+            \nGayrettepe, Süleymanbey
+            \n0212 288 24 41
+            \n-Petist Veteriner Kliniği
+            \nOrtaköy, Dereboyu Cad. Işık Sok. No:2/4
+            \n0212 213 11 32
+            \n-Petvet Veteriner Kliniği
+            \nDikilitaş Mah. Emirhan Cad. No:93-D
+            \n0212 236 23 11
+            \n-Pupilla Veteriner Kliniği
+            \nEtiler, Garanti Pasajı, Yanarsu
+            \n0212 257 17 93
+            \n-Terapist Veteriner Tıp Merkezi
+            \nTepecik Yolu Alkent Site AVMsi No:13/36 Etiler
+            \n0212 351 60 45
+            \n-Taurus Veteriner Polikliniği
+            \nBarbaros Bul. Abbasağa Sok. No:5/B
+            \n0212 236 93 87
+            \n-Ulus Veteriner Kliniği
+            \nKör Kadı Sok. Güzel Kon. Sit. C Blok No:2
+            \n0212 287 17 37
+            \n-Vet Plus Veteriner Kliniği
+            \nBarboros Bulvarı İ.B.A. Blokları No: 24/1A Balmumcu
+            \n0212 216 45 46
+            \n-Vet Station Veteriner Kliniği
+            \nBebek, Küçük Bebek No:16/4 D:3
+            \n0212 263 18 29
+            \n-Yeşil Park Veteriner Kliniği
+            \nCihannüma Ressam Hamdi Bey
+            \nBelirtilmemiş
+            \n-Yuvam Veteriner Kliniği
+            \nVişnezade Mah. Hüsrevgerede Kul Apt.
+            \n0212 227 29 10\n
+
+        </item>
+
+        <item>
+            \nAvcılar Belediyesi Veteriner İşleri Müdürlüğü Sokak Hayvanları Kısırlaştırma ve Rehabilitasyon Merkezi
+            \n(Gümüşpala Mahallesi, Karayolları Mevkii, E-5 Yan Yol, İgdaş Şantiyesi Yanı, Avcılar/İstanbul)
+            \n0 212 593 56 86 – 0 212 694 53 91\n
+            \nBahçelievler Hayvan Kısırlaştırma ve Rehabilitasyon Merkezi
+            \n(Çobançeşme Mahallesi, Sanayi Caddesi, Dış Ticaret Merkezi Karşısı, Bahçelievler/İstanbul)
+            \n0 212 652 26 15\n
+            \nBağcılar Belediyesi Kısırlaştırma ve Rehabilitasyon Merkezi
+            \n(Mahmutbey Mahallesi, İSTOÇ 11. Kapı Çıkışının Yanı, TEM Yolu Üzeri, Bağcılar/İstanbul)
+            \n0 212 659 20 48\n
+            \nBakırköy Belediyesi Sokak Hayvanları Geçici Bakımevi
+            \n(Ataköy 9. Kısım, Dünya Ticaret Merkezi Arkası, Bakırköy/İstanbul)
+            \n0 212 414 97 77\n
+            \nBayrampaşa Belediyesi Hayvan Barınağı
+            \n(Cevatpaşa Mahallesi, Fidanlık Mevkii, Bayrampaşa/İstanbul)
+            \n0 212 544 73 62\n
+            \nBeşiktaş Belediyesi Sokak Hayvanları Kısırlaştırma ve Rehabilitasyon Merkezi
+            \n(Mustafa İzzet Efendi Sokak, No: 5, Ortaköy/İstanbul)
+            \n0 212 274 20 10\n
+            \nBeylikdüzü Belediyesi Kısırlaştırma ve Rehabilitasyon Merkezi
+            \n(Adnan Kahveci Mahallesi, Gölboyu Caddesi, Star Mutfak Arkası, No: 1, Gürpınar/İstanbul)
+            \n0 212 856 22 88\n
+            \nBeyoğlu Belediyesi Rehabilitasyon Merkezi
+            \n(Bademli Mevkii, Musevi Mezarlığı’nın İçi, Beyoğlu/İstanbul)
+            \n0 212 210 22 22\n
+            \nBüyükçekmece Sahipsiz Hayvanlar Bakım, Tedavi ve Rehabilitasyon Merkezi
+            \n(Çakmaklı Köyü Altı, Büyükçekmece/İstanbul)
+            \n444 0 340 Dahili 1241\n
+            \nİstanbul Bolluca Köpekleri – Burhan Özkan
+            \n(Merkez Mh. Battal Gazi Cd. No:64 Bolluca Arnavutköy/istanbul)
+            \n(0538 813 19 93)
+            \nEsenler Belediyesi Rehabilitasyon Merkezi
+            \n(Çiftehavuzlar Mahallesi, Sarıgöl Caddesi, No: 12, Esenler/İstanbul)
+            \n0 212 482 41 16\n
+            \nEsenyurt Belediyesi Yakuplu Rehabilitasyon Merkezi
+            \nHaramidere Carreffour Arkası, İstanbul Residence Yanı, Esenyurt/İstanbul
+            \n0 212 853 52 73\n
+            \nFatih Belediyesi Yedikule Hayvan Barınağı
+            \nSahil Yolu (Kennedy Caddesi) Surdibi, Eski Havagazı Deposu, Fatih/İstanbul
+            \n0 212 633 58 57\n
+            \nGaziosmanpaşa Belediyesi Kücükköy Rehabilitasyon Merkezi
+            \nKarayolları Mahallesi, 568. Sokak, No: 15, Gaziosmanpaşa/İstanbul
+            \n0 212 479 47 65\n
+            \nGüngören Belediyesi Hayvan Toplama ve Kısırlaştırma Merkezi
+            \nGençosman Mahallesi, Güngören/İstanbul
+            \n0 212 462 26 40\n
+            \nİstanbul Büyükşehir Belediyesi Hasdal Rehabilitasyon Merkezi
+            \nE6 Kemerburgaz/Göktürk Yolu Üzeri, Kemerburgaz/İstanbul
+            \n0 212 360 29 19\n
+            \nSHKD Doğal Yaşam Alanı
+            \nE6 Kemerburgaz/Göktürk Yolu Üzeri, Hasdal Rehabilitasyon Merkezi Yanı, Kemerburgaz/İstanbul
+            \n0 212 227 72 65\n
+            \nKüçükçekmece Rehabilitasyon Merkezi
+            \nSazlıdere Baraj Yolu Üzeri, Kayabaşı Köyü, Küçükçekmece/İstanbul
+            \n0212 411 07 40\n
+            \nMimar Sinan Belediyesi Hayvan Barınağı
+            \nTotal Benzin İstasyonu Arkası, Mimar Sinan/İstanbul
+            \n0 212 883 91 75\n
+            \nSarıyer Belediyesi Kısırkaya Rehabilitasyon Merkezi
+            \nKısırkaya Köyü Çıkışı, Sarıyer/İstanbul
+            \n0 212 242 52 71\n
+            \nSilivri Belediyesi Rehabilitasyon Merkezi
+            \nYirikçayırı Mevkii, Silivri/İstanbul
+            \n0 212 727 18 63\n
+            \nŞişli Belediyesi Hayvan Kısırlaştırma ve Rehabilitasyon Merkezi
+            \nDarülaceze Caddesi, No: 70, Okmeydanı/İstanbul
+            \n0 212 221 85 89\n
+            \nZeytinburnu Belediyesi Rehabilitasyon Merkezi
+            \nSeyid Nizam Caddesi, Silivrikapı Karşısı (Varan Eski Garajı) Zeytinburnu/İstanbul
+            \n0 212 664 61 01\n
+            \nAdalar Belediyesi Büyükada Hayvan Barınağı
+            \nAtahırları Mevkii, Büyük Tur Yolu, Büyükada\n
+            \nBeykoz Belediyesi Hayvan Barınağı
+            \nMahmut Şevket Paşa Köyü yolu üzeri, 10 km, Beykoz\n
+            \nKadıköy Belediyesi Geçici Hayvan Bakım Merkezi
+            \nŞenol Güneş Bulvarı Yanyol Girişi No:1, Ataşehir
+            \n0216 415 67 61\n
+            \nŞile Belediyesi Hayvan Barınağı
+            \nŞile Yolu Ağva Girişi 50mt, Şile
+            \n0216 711 22 74\n
+            \nTuzla Rehabilitasyon Merkezi
+            \nKatı Atık Merkezi yanı, Aydınlıkköy, Tuzla
+            \n0216 393 00 10\n
+            \nÜmraniye Belediyesi Rehabilitasyon Merkezi
+            \nHekimbaşı Mevkii, Küçüksu Yolu, Ümraniye
+            \n0216 630 20 01\n
+            \nÜsküdar Belediyesi Sokak Hayvanları Barındırma ve Rehabilitasyon Merkezi
+            \nHekimbaşı Mevkii, Küçüksu Yolu, Kati Atık Tesisleri yanı, Ümraniye\n
+
+
+        </item>
+
+
+        <item>\n
+\t<b>1) Shih Tzu Köpek Cinsi Hakkında Bilgi</b>\n\n
+\tShih Tzu köpeği, rivayete göre 17. Yüzyılın ortalarında Pekin\'e getirilerek Tibet ve Pekingese köpeklerinin çaprazlanması sonucunda ortaya çıktığı düşünülmektedir. Çin\'deki İmparatorluk döneminde Shih-Tzu oldukça popülarite kazanmıştır. İmparatorluğun popülerliğini kazanan Shih Tuz köpeğinin başka ülkelere gönderilmesi yasaklanmıştır ve yıllarca bu şekilde devam etmiştir. Sonraları ırk yetiştiricilerin İngiltere’ye getirdiği bu türü dünyaya tanıtması ile popülerliği artış göstermiştir.
+        Günümüzde sevecenliği, arkadaş canlısı oluşu ve heyecanlı tavırları ile görenleri kendine hayran bırakan Shih Tzu köpeği son derece popüler ırklar arasında yer almaktadır. Ayrıca eğlenceli kişiliği ve akıllı zekası ile bazı etkinliklerde dahi kullanılan bu tür aileler için mükemmel bir seçim olacaktır. \n\n
+\t <b>2) Shih Tzu Köpek Kişiliği</b> \n\n
+\t Shih-Tzu uyanık ve cesur bir köpektir. Zeki ve inatçı bir karaktere sahiptir. Neşeli, dayanıklı, bazen küstah ve kibirlidir. Genellikle çocuklarla iyi anlaşmakla birlikte, sinirlendirildiğinde veya şaşırdığında ısırabilir. Oyuncu, canlı bir yapısı vardır. Yabancılara çabuk ısınır ve her zaman insanlarla birlikte olmak ister. Genellikle diğer petlerle de iyi geçinir. Ev içinde tuvalet eğitiminin verilmesi biraz zaman alabilir ama Shih-Tzu kararlı ve sabırlı bir eğitime yanıt verir. İyi bekçilik yapar ve havlamayı sever. Ancak ev içinde genellikle sessizdir. Shih-Tzu apartman yaşamı için ideal bir köpektir. Ev içinde yeteri kadar hareketli olduğundan bahçesiz bir evde bakılması problem yaratmaz. Bu ırk ısıya karşı hassastır. \n\n
+\t <b>3) Shih Tzu Köpeği Sağlık Durumu</b> \n\n
+\t Shih Tzu köpeği küçük bedeni ve fit duruşu ile bir hayli sağlıklı bir görünüme sahiptir. Köpeğinizin her daim uzun ömürlü olması için kişisel bakım ihtiyaçlarını düzenli olarak gerçekleştirmeniz önerilmektedir. Öte yandan Shih Tzu köpeğinin yaşamsal faaliyetlerini en üst düzeyde tutabilmek için her daim kaliteli köpek maması ve yaşına uygun mama tüketimi gerçekleştirilmektedir. Ayrıca vücut-kilo endeksine göre diyet maması da kullanılması gerekebilir. Yapılan araştırmalar neticesinde Shih Tzu köpeğinin ortalama yaşam beklentisi 10 ile 15 yıl arasında değişiklik göstermektedir. Her daim sağlıklı olduğundan emin olmak için düzenli veteriner hekim kontrolü önemlidir. Ayrıca Shih Tzu köpeğinin doğuştan gelen bazı kalıtsal hastalıklara sahip olma riskine karşı kontrollü olmanızda fayda var.\n\n
+\t <b>4) Shih Tzu Köpek Bakımı</b> \n\n
+\t Diğer köpek cinslerinde olduğu gibi Shih Tzu köpeğinin de sağlıklı ve uzun ömürlü bir yaşam için bakım oldukça önemlidir. Köpeğinizin bakım uygulamalarını yaparken düzenli tarama ölü tüylerden kolayca arınmasına yardımcı olmaktadır. Tüy uzunluğu ve yapısına göre Shih Tzu köpeğini günlük yada haftalık olarak tarayabilirsiniz. Öte yandan köpeğinizin patilerinin sağlıklı kalması için düzenli tırnak kesimi yapmalısınız. Bu uygulamaları köpek kuaförü merkezinde gerçekleştirebilirsiniz.
+        Shih Tzu köpeği bakım uygulamalarında ağız içerisinde oluşabilecek enfeksiyon riskine karşı diş fırçalama önerilmektedir. Ayrıca açık alanda zehirli otlara karşı her daim dikkatli olmanız gerekmektedir. Köpeğinizin mikrop ve parazitlere karşı korunması için düzenli aşı uygulamaları yaptırınız. Aşı uygulaması bağışıklık sistemini kuvvetlendireceği gibi vücut direncini de arttırmaktadır. Son olarak Shih Tzu köpeğinizin her daim fit kalması için düzenli egzersiz ihtiyacını gidermeyi ihmal etmeyiniz. \n\n
+\t <b>5) Shih Tzu Köpeği Çocuklar ve Diğer Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Aile hayvanı olarak iyi bir seçim olan Shih Tzu köpeği çocuklara karşı aşırı derece de toleranslı olduğu söylenmektedir. Ailenin bir parçası olmaya bayılan bu sevimli dostumuz hemen her yaşta ki çocuk ile iyi geçinebilmektedir. Asla zarar verme eğiliminde bulunmayan bu tür daha küçük çocuklar ile baş başa bırakılmamalıdır.
+        Birlikte büyüdüğü diğer evcil hayvanlar ile oldukça iyi geçinebilen Shih Tzu köpeği özellikle köpeklerle iyi dostluklar kurabilmektedir. Ancak kediler ile bir araya getirildiğinde fazlaca haylaz olduğu söylenmektedir. Bu nedenle küçük evciller ile kontrollü olarak yan yana getirilmelidir.​ \n\n
+\t <b>6) Shih Tzu Köpeği Kalıtsal Hastalıklar</b> \n\n
+\t Shih Tzu her ne kadar sağlıklı bir ırk olarak bilinse de bazı kalıtsal hastalıklara sahip olabilmektedir. Eğer ki kendinize bir Shih Tuz sahiplenmeyi düşünüyorsanız köpeklerde yaygın görülen hastalıklar konusunda bilgi sahibi olmanızda fayda var. Özellikle Shih Tuz köpeğinde rastlanmakta olan kalıtsal hastalıklar;
+
+        \n\n\t • Kalça Displazisi ( Bu hastalık uyluk kemiğinin kalça eklemine sıkıca oturmaması durumunda ortaya çıkmaktadır. Bazı köpek cinslerinde arka bacaklarından birinde veya her ikisinde de ağrı ve topallama gösterirken, bazı köpek cinslerinde hiçbir ön belirtiye rastlanmamaktadır. Genellikle bu hastalık köpeğin yaşlanması ile şiddetlenecektir. Hastalığın tanısının konması için kalça röntgeni gerekmektedir. Bu hastalık kalıtsal olmasına rağmen, yüksek kalorili besin tüketimine bağlı hızlı büyüme, şiddetli ters hareket yada düşerek yaralanma sonucunda kötüleşmektedir.)\n\n
+        \t • Katarakt ( Genellikle genç katarakt olarak bilinen bu hastalık köpeklerde 1 ile 2 yaş aralığında görülmektedir. Nadiren de olsa ileri aşamada körlüğe sebebiyet vermektedir. Bu kalıtsal sorunu taşıyan köpekler çiftleştirilmemelidir.\n\n
+        \t • Hipotiroidizm ( Bu hastalık genellikle zor tespit edilmektedir. Tiroid hormonlarının anormal derecede düşük üretilmesi sonucunda ortaya çıkmaktadır. Genellikle bu hastalığa sahip köpeklerde göz akıntısı, soluk almada sıkıntı ve halsizlik görülmektedir. Teşhisin konulması durumunda günlük tiroid hapı tüketilmesi gerekmektedir. Ayrıca bu tedavi köpeğin yaşamı boyunca devam ettirilmelidir.)\n\n
+        \t • Hemeralopia ( Gündüz körlüğü olarak bilinen bu hastalık genellikle yavru köpeğin sekiz haftalık olduğu dönemde sahibi tarafından kolayca fark edilebilmektedir. Hastalığın en belirgin yan etkisi yavrunun hareket halinde sürekli bir şeylere çarparak tökezlemesi olarak tanımlanır. Güneşe çıktığında oldukça sersem hareketler sergileten bu hastalık gece olduğunda ortadan kaybolmaktadır. Erken teşhis oldukça önemlidir.\n\n
+        \t • Kalıtsal Polinöropati ( Bu hastalık genellikle yürüme bozukluğuna yol açması ile bilinmektedir. Köpekte koordinasyon ve dengesizlik durumuna yol açmaktadır. Genellikle oldukça hafif yada çok şiddetli görülmektedir. Genellikle bir yaşının altında ki köpeklerde görülse de oldukça ani bir şekilde çıkabilmektedir. Bu hastalığa sahip köpek yürüme zorluğu çekebilir hatta düşebilir.\n\n
+        Yukarıda belirtmekte olduğumuz hastalıklar yalnızca bu cinse özgü değildir. Shih Tuz köpeğinde bu kalıtsal hastalıklar görülebileceği gibi hiç biri ile karşılaşmaması da oldukça olasıdır. Ancak köpek cinslerinde genellikle rastlanan bu kalıtsal sorunlara karşı köpeğinizi yavruluktan yetişkinliğe kadar düzenli veteriner hekim kontrolüne götürmeniz de fayda var. \n\n
+</item>
+        <item>\n
+\t<b>1) Chihuahua Köpek Cinsi Hakkında Bilgi</b>\n\n
+\t Chihuahua, kökeni hala tartışma konusun olsa da ilk olarak araştırmalar devam etmektedir. Tarafların bu tür hakkında yaşadığı ikilem Avrupa’da mı yoksa Meksika’da mı ortaya çıktığıdır. Ancak arkeolojik buluntular bu türün Meksika hikayelerinde sıklıkla bahsi geçtiğini göstermektedir. Her ne olursa olsun Chihuahua köpeği en eski ırklardan bir tanesidir. Dünyanın en küçük köpekleri arasında yer alan bu ırk ilk olarak 1904 yılında cins olarak kabul edilmiştir. Ayrıca dünyanın en popüler köpekleri arasında yer almaktadır.
+        Her geçen gün bir çok insanın kalbine ve evlerine girmeyi başaran Chihuahua köpeği zekası ve küçük doğası ile görenleri kendine hayran bırakmaktadır. Küçük olasının yanında her daim hareketli, kurnaz ve heyecanlı yapısı bir hayli güldürmektedir. Boyundan büyük işlere kalkışmaktan asla vazgeçmeyen bu tür her daim diğer hayvanlara karşı korunmalıdır. Her ne kadar kendisini ailesinin koruyucusu olarak görse bile Chihuahua köpeği küçük ve savunmasızdır. \n\n
+\t<b>2) Chihuahua Köpek Kişiliği</b> \n\n
+\t Uyanık, cesur ve cesaretli olması ile dikkat çeken bu küçük dostumuz son derece büyük bir köpek gibi davranışlar sergilemektedir. Genellikle kucak köpeği olarak bilinen Chihuahua köpeği sanılanın aksine özgürce dolaşmaktan zevk almaktadır. Son derce zeki olması ile komutları kolayca öğrenebildiği söylenmektedir. Ancak inanılmaz derece havlama eğilimli bir türdür.
+        Her daim temkinli ve dikkatli davranışlar sergileyen Chihuahua köpeği etrafında olup biten her duruma yakın davranmaktadır. Kendini koruma içgüdüsüne sahip bu kedi boyutunda ki tür her daim atakta beklemektedir. Ancak sahibine ve çevresine karşı her daim sevgi dolu ve şefkatlidir. Öte yandan yavruluktan itibaren iyi bir şekilde sosyalleştirilmeli gerekecektir. Kesinlikle ev hayatına uygun bir türdür. \n\n
+\t<b>3) Chihuahua Köpeği Sağlık Durumu</b> \n\n
+\t Chihuahua köpeği sağlıklı ve uzun ömürlü bir hayat sürebilmesi için her daim kaliteli köpek maması ile beslenmelidir. Beraberinde besinlerinin diyete uygun olarak tüketilmesi önemlidir. Düzenli öğün aralıkları ile gerçekleştirilecek olan tüketimlerin yanı sıra köpeğinizin bakım uygulamalarını da asla ihmal etmeyiniz. Chihuahua köpeğinin ortalama yaşam beklentisi 10 ile 18 yıl arasında değişiklik göstermektedir.
+        Tür bazı kalıtsal hastalıklara sahip olabileceği gibi her daim düzenli veteriner kontrolüne tabi tutulmalıdır. Ayrıca parazitlere karşı aşı uygulamaları yaşam süresini uzatmaktadır. Köpeğinizin zinde ve fit kalması için günlük egzersiz ihtiyaçlarını karşılamanız gerekmektedir. Bu genellikle doğal ortamda yapacağınız bir yürüyüş yada getir-götür oyunu olabilir. Unutmayınız ki yalnızca Chihuahua köpeği değil tüm köpek türleri sevgi ve saygı ile büyütülmesi durumunda daha sağlıklı, mutlu ve uzun ömürlü olacaktır. Onları her daim ailenizin bir parçası olarak görmeyi unutmayınız. \n\n
+\t<b>4) Chihuahua Köpek Bakımı</b> \n\n
+\t Chihuahua köpeğinin her daim yaşamsal faaliyetlerini en üst düzeyde tutulması için düzenli bakım ihtiyacı duymaktadır. Diğer köpek cinslerinde olduğu gibi bu türünde cildinin en iyi durumda kalması için tüylerinin haftalık birkaç kez taranması önerilmektedir. Beraberinde yılda birkaç defa ılık bir banyo ile ölü tüylerden kolayca arınacaktır.
+        Chihuahua köpeği egzersiz ihtiyacını karşıladıktan sonra nemli bir bez ile vücudu ve kulakları silinmelidir. Bu genellikle kulak içinde biriken bakterilere karşı en etkili çözümdür. Beraberinde ayak sağlığının korunması için aylık tırnak kesimi sağlanmalıdır. Tüy bakımı, tırnak ve deri temizliği için köpek kuaförlerinden yardım alabilirsiniz. Öte yandan Chihuahua köpeğinin her daim temiz ortamda bulunmasına dikkat ediniz. Bahçe ortamında yaşaması durumunda zehirli otlara karşı önlem alınız. \n\n
+\t<b>5) Chihuahua Köpeği Çocuklar ve Diğer Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Daha çok genç çocuklu aileler için uygun olan Chihuahua köpeği son derece iyi arkadaşlıklar kurabilmektedir. Küçük çocuklarla anlaşamamasının sebebi, onları her daim sesli ve gürültülü hareketlerde bulunuyor olmasıdır. Chihuahua köpeği daha çok sessiz ortamlarda yaşamayı sevmektedir. Ancak küçük bir çocuğa karşı da nazik ve sevecendir. Diğer evcil hayvanlar ile iyi geçinebilmesi için sosyalleştirilmesi gerekmektedir. Ancak özellikle kendi ırkı ile oldukça iyi anlaşmaktadır. Kedileri ise daha çok kovalamayı tercih eden bu sevimli dostumuz daha çok başka bir evcilin olmadığı evler için tercih edilmektedir. \n\n
+\t<b>6) Chihuahua Köpeği Kalıtsal Hastalıklar</b> \n\n
+\t Chihuahua her ne kadar sağlıklı bir ırk olarak bilinse de bazı kalıtsal hastalıklardan sıkıntılı olabilmektedir. Eğer ki kendinize bir Chihuahua sahiplenmeyi düşünüyorsanız köpeklerde yaygın görülen hastalıklar konusunda bilgi sahibi olmanızda fayda var. Özellikle Chihuahua köpeğinde rastlanmakta olan kalıtsal hastalıklar;
+
+        \n\n\t • Kalça Displazisi ( Bu hastalık uyluk kemiğinin kalça eklemine sıkıca oturmaması durumunda ortaya çıkmaktadır. Bazı köpek cinslerinde arka bacaklarından birinde veya her ikisinde de ağrı ve topallama gösterirken, bazı köpek cinslerinde hiçbir ön belirtiye rastlanmamaktadır. Genellikle bu hastalık köpeğin yaşlanması ile şiddetlenecektir. Hastalığın tanısının konması için kalça röntgeni gerekmektedir. Bu hastalık kalıtsal olmasına rağmen, yüksek kalorili besin tüketimine bağlı hızlı büyüme, şiddetli ters hareket yada düşerek yaralanma sonucunda kötüleşmektedir.)\n\n
+        \t • Katarakt ( Genellikle genç katarakt olarak bilinen bu hastalık köpeklerde 1 ile 2 yaş aralığında görülmektedir. Nadiren de olsa ileri aşamada körlüğe sebebiyet vermektedir. Bu kalıtsal sorunu taşıyan köpekler çiftleştirilmemelidir.\n\n
+        \t • Hipotiroidizm ( Bu hastalık genellikle zor tespit edilmektedir. Tiroid hormonlarının anormal derecede düşük üretilmesi sonucunda ortaya çıkmaktadır. Genellikle bu hastalığa sahip köpeklerde göz akıntısı, soluk almada sıkıntı ve halsizlik görülmektedir. Teşhisin konulması durumunda günlük tiroid hapı tüketilmesi gerekmektedir. Ayrıca bu tedavi köpeğin yaşamı boyunca devam ettirilmelidir.)\n\n
+        \t • Hemeralopia ( Gündüz körlüğü olarak bilinen bu hastalık genellikle yavru köpeğin sekiz haftalık olduğu dönemde sahibi tarafından kolayca fark edilebilmektedir. Hastalığın en belirgin yan etkisi yavrunun hareket halinde sürekli bir şeylere çarparak tökezlemesi olarak tanımlanır. Güneşe çıktığında oldukça sersem hareketler sergileten bu hastalık gece olduğunda ortadan kaybolmaktadır. Erken teşhis oldukça önemlidir.\n\n
+        \t • Kalıtsal Polinöropati ( Bu hastalık genellikle yürüme bozukluğuna yol açması ile bilinmektedir. Köpekte koordinasyon ve dengesizlik durumuna yol açmaktadır. Genellikle oldukça hafif yada çok şiddetli görülmektedir. Genellikle bir yaşının altında ki köpeklerde görülse de oldukça ani bir şekilde çıkabilmektedir. Bu hastalığa sahip köpek yürüme zorluğu çekebilir hatta düşebilir.\n\n
+
+        Yukarıda belirtmekte olduğumuz hastalıklar yalnızca bu cinse özgü değildir. Chihuahua köpeğinde bu kalıtsal hastalıklar görülebileceği gibi hiç biri ile karşılaşmaması da oldukça olasıdır. Ancak köpek cinslerinde genellikle rastlanan bu kalıtsal sorunlara karşı köpeğinizi yavruluktan yetişkinliğe kadar düzenli veteriner hekim kontrolüne götürmeniz de fayda var. \n\n
+</item>
+
+        <item>\n
+\t<b>1) Amerikan Eskimo Cinsi Köpek Bakımı ve Özellikleri</b>\n\n
+\tAmerikan Eskimo, Spitz ailesinin bir üyesidir. Bu türün yoğun tüy yapısı ve küçük kulakları vardır. Bu türün gerçek kökeni hala bilinmemektedir. Ancak yapılan araştırmalar kesin olmamakla birlikte beyaz Keeshonden veya beyaz Pomeranya köpek soyundan geldiği düşünülmektedir. Amerikan Eskimo köpeği 1995 yılında Amerikan Kennel Kulübü tarafından cins olarak kabul edilmesi ile popülerliği hızla artış göstermiştir. Dünya tarafından sevilen bir köpek olmasına katkıda bulunan kusursuz beyaz tüy yapısıdır.
+        Her daim mutlu ve enerjik Amerikan Eskimo köpeği koşmayı, oynamayı ve problemleri çözmeyi sevdiği bilinmektedir. Adından da anlaşıldığı gibi bu tür özellikle karda oynamaya bayılmaktadır. Bu yüzden soğuk iklim kuşağında yaşayan aileler için mükemmel bir arkadaş olmaktadır. Ayrıca son derece başarılı bir bekçi köpeği olma özelliğine de sahiptir. Bu sevimli dostumuz sabırlı yapısı ile çocukları oldukça çok sevmektedir. \n\n
+\t<b>2) Amerikan Eskimo Kişiliği</b> \n\n
+\tZeki, kuvvetli ve güçlü yapısı ile son derece oyuncu olan Amerikan Eskimo köpeği doğası gereği yabancılara karşı her daim şüphe ile yaklaşmaktadır. Buda onu iyi bir bekçi köpeği yapmaktadır. Oldukça enerjik yapıya sahip Amerikan Eskimo köpeği düzenli olarak ilgi ve alaka istemektedir. Aksi taktirde havlayan, huysuz ve sıkıcı bir türe dönüşecektir. Ayrıca bu tür kendine fazlasıyla güvenmesinden dolayı yeni şeyler öğrenme konusunda oldukça başarılıdır. Bu da köpeğinizi kolayca eğitmenize yardımcı olacaktır. Bu türün en sevmediği şey yalnız kalmak. Ailenin her daim bir parçası olmayı seven Amerikan Eskimo, yalnız bırakıldığında ayrılık kaygısına kapılmaktadır. Bu yüzden yoğun iş temposunda çalışan aileler için doğru bir seçim değildir. \n\n
+\t<b>3) Amerikan Eskimo Sağlık Durumu</b> \n\n
+\tAmerikan Eskimo köpeği düzenli beslenme ve uygun çevre koşullarının oluşturulması durumunda oldukça uzun süre hayatta kalabilmektedir. Her daim kaliteli köpek maması ve diyete uygun beslenme ile ortalama yaşam beklentisi 12 ile 15 yıl arasında değişiklik gösterdiği bilinmektedir. Diğer pek çok köpek cinsinde olduğu gibi Amerikan Eskimo köpeği içinde bazı kalıtsal hastalıklar görülebilmektedir.
+        Köpeğinizin her daim sağlıklı bir hayat sürmesi için kişisel bakım uygulamalarını ihmal etmeyiniz. Ayrıca beslenme, rutin egzersiz, temizlik ve veteriner muayenesi oldukça önemlidir. Vücut direncinin her daim yüksek kalması ve bağışıklık sisteminin korunması için Amerikan Eskimo köpeğinize aşı uygulamaları yaptırmayı ihmal etmeyiniz. \n\n
+\t<b>4) Amerikan Eskimo Bakımı</b> \n\n
+\tAmerikan Eskimo köpeği uzun tüy yapısına sahip olmasından dolayı düzenli bakım ihtiyacı duymaktadır. Yılın her günü çift katlı kürke sahip bu türün düzenli tarama uygulamaları yapılmalıdır. Tüyleri oldukça yoğun olmasına rağmen tarama işlemleri oldukça basittir. İpeksi bir görünüme sahip parlak tüyleri yağ ve kirlere karşı oldukça dayanıklıdır. Yılda birkaç kez banyo yaptırmanız yeterli olacaktır.
+        Hassas cilt yapısına sahip Amerikan Eskimo köpeği yaz aylarında kısa tüyleri ile güneşe çıkartılmamalıdır. Ayrıca aylık olarak tırnak bakımı yapılmalıdır. Beraberinde kulaklarının için haftalık nemli bir bez ile silinmelidir. Her daim sağlıklı kalması için hijyenik bir ortamda yaşaması önerilmektedir. Ayrıca ağız enfeksiyonlarına karşı dişlerinin fırçalanması gerekmektedir. \n\n
+\t<b>5) Amerikan Eskimo Çocuklar ve Diğer Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Amerikan Eskimo köpeği her yaştan çocukla oldukça iyi geçinmektedir. Diğer köpek ve kedilerde dahil olmak üzere evcil hayvanlarla da arasının iyi olduğu bilinmektedir. Özellikle yavruluktan itibaren bir araya getirilmesi durumunda hiçbir problem çıkarmamaktadır. Ancak küçük çocuklar ve daha küçük evcil hayvanlar ile kontrollü olarak bir araya getirilmelidir. Enerji seviyesinin aşırı yüksek olmasında dolayı Amerikan Eskimo köpeği istemeden incitebilmektedir. Ayrıca kovalamaya meyilli kişiliği küçük evcilleri rahat bırakmayacağını göstermektedir. \n\n
+\t<b>6) Amerikan Eskimo Köpeği Kalıtsal Hastalıklar</b> \n\n
+\tAmerikan Eskimo her ne kadar sağlıklı bir ırk olarak bilinse de bazı kalıtsal hastalıklardan muzdarip olabilmektedir. Eğer ki kendinize bir Amerikan Eskimo sahiplenmeyi düşünüyorsanız köpeklerde yaygın görülen hastalıklar konusunda bilgi sahibi olmanızda fayda var. Özellikle Amerikan Eskimo köpeğinde rastlanmakta olan kalıtsal hastalıklar;
+        \n\n\t• Kalça Displazisi ( Bu hastalık uyluk kemiğinin kalça eklemine sıkıca oturmaması durumunda ortaya çıkmaktadır. Bazı köpek cinslerinde arka bacaklarından birinde veya her ikisinde de ağrı ve topallama gösterirken, bazı köpek cinslerinde hiçbir ön belirtiye rastlanmamaktadır. Genellikle bu hastalık köpeğin yaşlanması ile şiddetlenecektir. Hastalığın tanısının konması için kalça röntgeni gerekmektedir. Bu hastalık kalıtsal olmasına rağmen, yüksek kalorili besin tüketimine bağlı hızlı büyüme, şiddetli ters hareket yada düşerek yaralanma sonucunda kötüleşmektedir.)\n\n
+        \t• Katarakt ( Genellikle genç katarakt olarak bilinen bu hastalık köpeklerde 1 ile 2 yaş aralığında görülmektedir. Nadiren de olsa ileri aşamada körlüğe sebebiyet vermektedir. Bu kalıtsal sorunu taşıyan köpekler çiftleştirilmemelidir.\n\n
+        \t• Hipotiroidizm ( Bu hastalık genellikle zor tespit edilmektedir. Tiroid hormonlarının anormal derecede düşük üretilmesi sonucunda ortaya çıkmaktadır. Genellikle bu hastalığa sahip köpeklerde göz akıntısı, soluk almada sıkıntı ve halsizlik görülmektedir. Teşhisin konulması durumunda günlük tiroid hapı tüketilmesi gerekmektedir. Ayrıca bu tedavi köpeğin yaşamı boyunca devam ettirilmelidir.)\n\n
+        \t• Hemeralopia ( Gündüz körlüğü olarak bilinen bu hastalık genellikle yavru köpeğin sekiz haftalık olduğu dönemde sahibi tarafından kolayca fark edilebilmektedir. Hastalığın en belirgin yan etkisi yavrunun hareket halinde sürekli bir şeylere çarparak tökezlemesi olarak tanımlanır. Güneşe çıktığında oldukça sersem hareketler sergileten bu hastalık gece olduğunda ortadan kaybolmaktadır. Erken teşhis oldukça önemlidir.\n\n
+        \t• Kalıtsal Polinöropati ( Bu hastalık genellikle yürüme bozukluğuna yol açması ile bilinmektedir. Köpekte koordinasyon ve dengesizlik durumuna yol açmaktadır. Genellikle oldukça hafif yada çok şiddetli görülmektedir. Genellikle bir yaşının altında ki köpeklerde görülse de oldukça ani bir şekilde çıkabilmektedir. Bu hastalığa sahip köpek yürüme zorluğu çekebilir hatta düşebilir.\n\n
+
+        Yukarıda belirtmekte olduğumuz hastalıklar yalnızca bu cinse özgü değildir. Amerikan Eskimo köpeğinde bu kalıtsal hastalıklar görülebileceği gibi hiç biri ile karşılaşmaması da oldukça olasıdır. Ancak köpek cinslerinde genellikle rastlanan bu kalıtsal sorunlara karşı köpeğinizi yavruluktan yetişkinliğe kadar düzenli veteriner hekim kontrolüne götürmeniz de fayda var. \n\n
+</item>
+
+        <item>\n
+\t<b>1) Papillon Cinsi Köpek Bakımı ve Özellikleri</b>\n\n
+\t Papillon köpeği, Avrupa\'da yaşamış oldukça eski bir köpek ırktır. Tahmini olarak 700 yıl önceye dayanan geçmişi ile bilinen en eski köpek ırkları arasında adını duyurmaktadır. Irk 13 yüzyıllarda İtalya’da resimlerde anlatılmış bir türdür. Ayrıca Rönesans döneminde ki bir çok yağlı boya çalışmalarında da yer verilmiştir. İyi bir bekçi köpeği olduğu bilinen Papilon, son derece cesur, sadık ve cana yakın olması ile dikkat çekmektedir. Ayrıca sahibine karşı her daim itaatkar tavırları onu çok sevilen bir köpek yapmaya yetmektedir. \n\n
+\t<b>2) Papillon Köpek Kişiliği</b> \n\n
+\t Papillon\'a bazen kulaklarının görüntüsünden dolayı kelebek köpeği de denir. Göründüğü kadar narin olmayan bu ırk zeki, canlı ve sevgi doludur. Dışarıda oyun oynamaya bayıldığı gibi ev içinde de sessizce sahibine eşlik eder. Sahibini çok sahiplenip yabancılara karşı korumacı davranabilir. Dengeli ve itaatkardır. Hırçın küçük köpeklerden değildir. Papillon küçük numaraları kolay öğrenir. Bazıları huzursuz ve aşırı gergin olabilir. Tuvalet eğitimi almakta zorlanabilir; ancak genel eğitimi kolaydır. Papillon erişkin ve olgun çocuklarla daha iyi anlaşır. Köpeklere karşı biraz saldırgan olabilir. Birlikte yetiştirilirse kedilerle arası iyidir. İyi şehir köpekleri olmalarına rağmen bazen bölgesini korumak için fazla havlayabileceğinden apartman yaşamına uygun olmayabilir. \n\n
+\t<b>3) Papilon Köpeği Sağlık Durumu</b> \n\n
+\t Papilon köpeği küçük bedeni ve fit duruşu ile bir hayli sağlıklı bir görünüme sahiptir. Köpeğinizin her daim uzun ömürlü olması için kişisel bakım ihtiyaçlarını düzenli olarak gerçekleştirmeniz önerilmektedir. Öte yandan Papilon köpeğinin yaşamsal faaliyetlerini en üst düzeyde tutabilmek için her daim kaliteli köpek maması ve yaşına uygun mama tüketimi gerçekleştirilmektedir. Ayrıca vücut-kilo endeksine göre diyet maması da kullanılması gerekebilir. Yapılan araştırmalar neticesinde Papilon köpeğinin ortalama yaşam beklentisi 13 ile 16 yıl arasında değişiklik göstermektedir. Her daim sağlıklı olduğundan emin olmak için düzenli veteriner hekim kontrolü önemlidir. Ayrıca Papilon köpeğinin doğuştan gelen bazı kalıtsal hastalıklara sahip olma riskine karşı kontrollü olmanızda fayda var. \n\n
+\t<b>4) Papilon Köpek Bakımı</b> \n\n
+\t Diğer köpek cinslerinde olduğu gibi Papilon köpeğinin de sağlıklı ve uzun ömürlü bir yaşam için bakım oldukça önemlidir. Köpeğinizin bakım uygulamalarını yaparken düzenli tarama ölü tüylerden kolayca arınmasına yardımcı olmaktadır. Tüy uzunluğu ve yapısına göre Papilon köpeğini günlük yada haftalık olarak tarayabilirsiniz. Öte yandan köpeğinizin patilerinin sağlıklı kalması için düzenli tırnak kesimi yapmalısınız. Bu uygulamaları köpek kuaförü merkezinde gerçekleştirebilirsiniz.
+        Papilon köpeği bakım uygulamalarında ağız içerisinde oluşabilecek enfeksiyon riskine karşı diş fırçalama önerilmektedir. Ayrıca açık alanda zehirli otlara karşı her daim dikkatli olmanız gerekmektedir. Köpeğinizin mikrop ve parazitlere karşı korunması için düzenli aşı uygulamaları yaptırınız. Aşı uygulaması bağışıklık sistemini kuvvetlendireceği gibi vücut direncini de arttırmaktadır. Son olarak Chorkie köpeğinizin her daim fit kalması için düzenli egzersiz ihtiyacını gidermeyi ihmal etmeyiniz. \n\n
+\t<b>5) Papilon Köpeği Çocuklar ve Diğer Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Papilon köpeği güleç suratı ve yumuşacık kalbi ile çocuklara her daim yakın olmayı istemektedir. Onların etrafında olmaktan hoşlanan tür çocuklarla iyi geçinebilmekedir. Hemen her yaştan çocuk ile oyunlar oynayabilen ve açık alanda dolaşabilen Papilon köpeği iyi bir aile köpeği olarak bilinmektedir.
+        Diğer evcil hayvanlar ile özellikle genç yaşta tanıştırılması durumunda iyi geçinebilmektedir. Nazik ve iyi huylu doğası arkadaş canlısı kişiliğini ön plana çıkartmaktadır. Köpekler başta olmak üzere kedilerle dahi iyi geçinebildiği görülmüştür.​ \n\n
+\t<b>6) Papilon Köpeği Kalıtsal Hastalıklar</b> \n\n
+\t Papilon her ne kadar sağlıklı bir ırk olarak bilinse de bazı kalıtsal hastalıklara sahip olabilmektedir. Eğer ki kendinize bir Papilon sahiplenmeyi düşünüyorsanız köpeklerde yaygın görülen hastalıklar konusunda bilgi sahibi olmanızda fayda var. Özellikle Papilon köpeğinde rastlanmakta olan kalıtsal hastalıklar;
+
+        \n\n\t• Kalça Displazisi ( Bu hastalık uyluk kemiğinin kalça eklemine sıkıca oturmaması durumunda ortaya çıkmaktadır. Bazı köpek cinslerinde arka bacaklarından birinde veya her ikisinde de ağrı ve topallama gösterirken, bazı köpek cinslerinde hiçbir ön belirtiye rastlanmamaktadır. Genellikle bu hastalık köpeğin yaşlanması ile şiddetlenecektir. Hastalığın tanısının konması için kalça röntgeni gerekmektedir. Bu hastalık kalıtsal olmasına rağmen, yüksek kalorili besin tüketimine bağlı hızlı büyüme, şiddetli ters hareket yada düşerek yaralanma sonucunda kötüleşmektedir.)
+
+        \n\n\t• Katarakt ( Genellikle genç katarakt olarak bilinen bu hastalık köpeklerde 1 ile 2 yaş aralığında görülmektedir. Nadiren de olsa ileri aşamada körlüğe sebebiyet vermektedir. Bu kalıtsal sorunu taşıyan köpekler çiftleştirilmemelidir.
+
+        \n\n\t• Hipotiroidizm ( Bu hastalık genellikle zor tespit edilmektedir. Tiroid hormonlarının anormal derecede düşük üretilmesi sonucunda ortaya çıkmaktadır. Genellikle bu hastalığa sahip köpeklerde göz akıntısı, soluk almada sıkıntı ve halsizlik görülmektedir. Teşhisin konulması durumunda günlük tiroid hapı tüketilmesi gerekmektedir. Ayrıca bu tedavi köpeğin yaşamı boyunca devam ettirilmelidir.)
+
+        \n\n\t• Hemeralopia ( Gündüz körlüğü olarak bilinen bu hastalık genellikle yavru köpeğin sekiz haftalık olduğu dönemde sahibi tarafından kolayca fark edilebilmektedir. Hastalığın en belirgin yan etkisi yavrunun hareket halinde sürekli bir şeylere çarparak tökezlemesi olarak tanımlanır. Güneşe çıktığında oldukça sersem hareketler sergileten bu hastalık gece olduğunda ortadan kaybolmaktadır. Erken teşhis oldukça önemlidir.
+
+        \n\n\t• Kalıtsal Polinöropati ( Bu hastalık genellikle yürüme bozukluğuna yol açması ile bilinmektedir. Köpekte koordinasyon ve dengesizlik durumuna yol açmaktadır. Genellikle oldukça hafif yada çok şiddetli görülmektedir. Genellikle bir yaşının altında ki köpeklerde görülse de oldukça ani bir şekilde çıkabilmektedir. Bu hastalığa sahip köpek yürüme zorluğu çekebilir hatta düşebilir.
+
+        \n\n\t• Yukarıda belirtmekte olduğumuz hastalıklar yalnızca bu cinse özgü değildir. Papilon köpeğinde bu kalıtsal hastalıklar görülebileceği gibi hiç biri ile karşılaşmaması da oldukça olasıdır. Ancak köpek cinslerinde genellikle rastlanan bu kalıtsal sorunlara karşı köpeğinizi yavruluktan yetişkinliğe kadar düzenli veteriner hekim kontrolüne götürmeniz de fayda var. \n\n
+</item>
+
+        <item>\n
+\t<b>1) Pug Köpek Cinsi Hakkında Bilgi</b>\n\n
+\t Pug köpeği, yer yüzünde ki en eski köpek ırkları arasında olduğu söylenmektedir. Tahmini olarak M.Ö 400’lü yıllara dayanan geçmişi ile Pug tarihin en eski köpeği dahi olabilir. Kimi araştırmacılara göre Pekingese ırkında geldiği söylenen ırk kimine göre bulldog cinsinin karması olarak adlandırılmaktadır.
+        Avrupa’da ki saraylarda kullanılan Pug köpeği kraliyetlerde de büyük ilgi ile karşılanmıştır. Son derece popüler bir ırk olan tür 16. Yüzyılda en çok tercih edilen köpeklerin başında gelmektedir. Sonraları Avrupa’ya getirilen tür hızla tanınmaya başlamış ve bir çok ailenin arkadaşı olmuştur. Bir söylentide 1952 yılında gerçekleştirilecek olan bir saldırının dahi habercisi olduğu söylenen Pug, mükemmel bekçi özelliği ile hem evlerde hem de bahçelerde beslenmektedir. \n\n
+\t<b>2) Pug Köpek Kişiliği</b> \n\n
+\t Pug, küçük pakette büyük köpek olarak bilinir. Mutlu, hareketli ve sadık köpeklerdir. Oyun oynamayı dolayısıyla da yaramazlık yapmayı severler. Biraz inatçıdırlar. Çok zeki olsalar da tekrar içeren eğitim rutinlerinden çabuk sıkılırlar. Pug ses tonunuza karşı duyarlı olduğundan sert cezalara gerek yoktur. Bu köpek ya çok heyecanlı ya da donuk karakterli olabilir.
+        İyi bir bekçi köpeğidir; ancak gereksiz havlamaz. Pug diğer köpekler ve ev hayvanları ile iyi geçinir. Çocuklar ve eve gelen ziyaretçilerle de arası iyidir. Çok fazla ilgi istediğinden kıskanç olabilir. Pug apartman için uygun bir köpektir. Ev içinde pek hareketli değildir ve bahçesiz bir evde de yaşayabilir. Aşırı sıcağa ve soğuğa dayanamaz. \n\n
+\t<b>3) Pug Köpeği Sağlık Durumu</b> \n\n
+\t Pug köpeği küçük bedeni ve fit duruşu ile bir hayli sağlıklı bir görünüme sahiptir. Köpeğinizin her daim uzun ömürlü olması için kişisel bakım ihtiyaçlarını düzenli olarak gerçekleştirmeniz önerilmektedir. Öte yandan Pug köpeğinin yaşamsal faaliyetlerini en üst düzeyde tutabilmek için her daim kaliteli köpek maması ve yaşına uygun mama tüketimi gerçekleştirilmektedir. Ayrıca vücut-kilo endeksine göre diyet maması da kullanılması gerekebilir.
+        Yapılan araştırmalar neticesinde Pug köpeğinin ortalama yaşam beklentisi 12 ile 15 yıl arasında değişiklik göstermektedir. Her daim sağlıklı olduğundan emin olmak için düzenli veteriner hekim kontrolü önemlidir. Ayrıca Pug köpeğinin doğuştan gelen bazı kalıtsal hastalıklara sahip olma riskine karşı kontrollü olmanızda fayda var. \n\n
+\t<b>4) Pug Köpek Bakımı</b> \n\n
+\t Diğer köpek cinslerinde olduğu gibi Pug köpeğinin de sağlıklı ve uzun ömürlü bir yaşam için bakım oldukça önemlidir. Köpeğinizin bakım uygulamalarını yaparken düzenli tarama ölü tüylerden kolayca arınmasına yardımcı olmaktadır. Tüy uzunluğu ve yapısına göre Pug köpeğini günlük yada haftalık olarak tarayabilirsiniz. Öte yandan köpeğinizin patilerinin sağlıklı kalması için düzenli tırnak kesimi yapmalısınız. Bu uygulamaları köpek kuaförü merkezinde gerçekleştirebilirsiniz.
+        Pug köpeği bakım uygulamalarında ağız içerisinde oluşabilecek enfeksiyon riskine karşı diş fırçalama önerilmektedir. Ayrıca açık alanda zehirli otlara karşı her daim dikkatli olmanız gerekmektedir. Köpeğinizin mikrop ve parazitlere karşı korunması için düzenli aşı uygulamaları yaptırınız. Aşı uygulaması bağışıklık sistemini kuvvetlendireceği gibi vücut direncini de arttırmaktadır. Son olarak Pug köpeğinizin her daim fit kalması için düzenli egzersiz ihtiyacını gidermeyi ihmal etmeyiniz. \n\n
+\t<b>5) Pug Köpeği Çocuklar ve Diğer Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Pug köpeği her daim çocuklara karşı nazik ve sevecen olan bir türdür. Onlarla oyun oynamaktan ve beraber vakit geçirmekten zevk alan sevimli dostumuz yüzyıllardır mükemmel aile köpeği olarak tercih edilmiştir. Daha küçük çocukların Pug köpeğine zarar vermeden oynama konusunda uyarılması gerekmektedir.
+        Diğer evcillerle iyi geçinebilen Pug köpeği ev ortamında bi köpek yada kedi ile sıkı bir dostluk kurabilmektedir. Sakin ve rahat tavırları ile dikkat çeken Pug daha küçük evciller ile baş başa bırakılmamalıdır. \n\n
+\t<b>6) Pug Köpeği Kalıtsal Hastalıklar </b>\n\n
+\t Pug her ne kadar sağlıklı bir ırk olarak bilinse de bazı kalıtsal hastalıklara sahip olabilmektedir. Eğer ki kendinize bir Pug sahiplenmeyi düşünüyorsanız köpeklerde yaygın görülen hastalıklar konusunda bilgi sahibi olmanızda fayda var. Özellikle Pug köpeğinde rastlanmakta olan kalıtsal hastalıklar;
+        \n\n\t• Kalça Displazisi ( Bu hastalık uyluk kemiğinin kalça eklemine sıkıca oturmaması durumunda ortaya çıkmaktadır. Bazı köpek cinslerinde arka bacaklarından birinde veya her ikisinde de ağrı ve topallama gösterirken, bazı köpek cinslerinde hiçbir ön belirtiye rastlanmamaktadır. Genellikle bu hastalık köpeğin yaşlanması ile şiddetlenecektir. Hastalığın tanısının konması için kalça röntgeni gerekmektedir. Bu hastalık kalıtsal olmasına rağmen, yüksek kalorili besin tüketimine bağlı hızlı büyüme, şiddetli ters hareket yada düşerek yaralanma sonucunda kötüleşmektedir.)
+        \n\n\t• Katarakt ( Genellikle genç katarakt olarak bilinen bu hastalık köpeklerde 1 ile 2 yaş aralığında görülmektedir. Nadiren de olsa ileri aşamada körlüğe sebebiyet vermektedir. Bu kalıtsal sorunu taşıyan köpekler çiftleştirilmemelidir.
+        \n\n\t• Hipotiroidizm ( Bu hastalık genellikle zor tespit edilmektedir. Tiroid hormonlarının anormal derecede düşük üretilmesi sonucunda ortaya çıkmaktadır. Genellikle bu hastalığa sahip köpeklerde göz akıntısı, soluk almada sıkıntı ve halsizlik görülmektedir. Teşhisin konulması durumunda günlük tiroid hapı tüketilmesi gerekmektedir. Ayrıca bu tedavi köpeğin yaşamı boyunca devam ettirilmelidir.)
+        \n\n\t• Hemeralopia ( Gündüz körlüğü olarak bilinen bu hastalık genellikle yavru köpeğin sekiz haftalık olduğu dönemde sahibi tarafından kolayca fark edilebilmektedir. Hastalığın en belirgin yan etkisi yavrunun hareket halinde sürekli bir şeylere çarparak tökezlemesi olarak tanımlanır. Güneşe çıktığında oldukça sersem hareketler sergileten bu hastalık gece olduğunda ortadan kaybolmaktadır. Erken teşhis oldukça önemlidir.
+        \n\n\t• Kalıtsal Polinöropati ( Bu hastalık genellikle yürüme bozukluğuna yol açması ile bilinmektedir. Köpekte koordinasyon ve dengesizlik durumuna yol açmaktadır. Genellikle oldukça hafif yada çok şiddetli görülmektedir. Genellikle bir yaşının altında ki köpeklerde görülse de oldukça ani bir şekilde çıkabilmektedir. Bu hastalığa sahip köpek yürüme zorluğu çekebilir hatta düşebilir.
+
+        Yukarıda belirtmekte olduğumuz hastalıklar yalnızca bu cinse özgü değildir. Pug köpeğinde bu kalıtsal hastalıklar görülebileceği gibi hiç biri ile karşılaşmaması da oldukça olasıdır. Ancak köpek cinslerinde genellikle rastlanan bu kalıtsal sorunlara karşı köpeğinizi yavruluktan yetişkinliğe kadar düzenli veteriner hekim kontrolüne götürmeniz de fayda var. \n\n
+</item>
+
+        <item>\n
+\t<b>1) Beagle Köpek Cinsi Hakkında Bilgi</b>\n\n
+\t Beagle köpeğinin asıl kökeni halen gizliliğini korumaktadır. Beraberinde M.Ö 400’lü yıllarda Eski Yunanistan’da benzer türlerin görüldüğü iddia edilmektedir. Beraberinde Eski İngiltere’de benzer av köpeklerinin olduğu söylenmektedir. Bu denli gizemli geçmişe sahip olan Beagle köpeği en eski ırklar arasında gösterilmektedir. Günümüzde hem aileler için tercih edilen bu tür halen avcılıkta kullanılmaktadır.
+            Sürekli olarak popülerliğini korumakta olan Beagle köpeği son derece insancıl kişiliği ile oldukça iyi bir arkadaştır. Her ne kadar avlanma içgüdüsü ile dikkat çekse de ev ortamına kolaylıkla ayak uydurabildiği bilinmektedir. Ayrıca son derece zeki yapısı eğitilme konusunda bir hayli hızlı olduğunu göstermektedir. Her daim mutlu olmaya çalışan bu sevimli dostumuz inşalarla iç içe olmaktan büyük zevk alacaktır. \n\n
+\t<b>2) Beagle Köpek Kişiliği</b> \n\n
+\t Doğası gereği son derece sosyal ve yaramaz bir karaktere sahip olan Beagle köpeği ev içerisinde her şeye müdahale etmektedir. Her ne kadar avcı özelliği gelişmiş olsa da mükemmel bir aile köpeği olan bu tür kaçmaya aşırı meyillidir. Ayrıca son derece yetenekli kazıcıdır. Her daim insanların ve hayvanların etrafında olmaktan hoşlanan yapısı her daim sıcakkanlı yapmaktadır. Çocuklara karşı oldukça hassas davrandığı bilinen bu tür mutlu, sevecen ve heyecanlı olması ile bilinmektedir. Ayrıca Beagle köpeği hassas burun yapısına sahip olmasından dolayı kokuların peşine takılarak uzaklaşa bilmektedir. Bu konuda iyi bir eğitim verilmesi önerilir. \n\n
+\t<b>3) Beagle  Köpeği Sağlık Durumu</b> \n\n
+\t Beagle köpeği düzenli beslenme ve uygun çevre koşullarının oluşturulması durumunda oldukça uzun süre hayatta kalabilmektedir. Her daim kaliteli köpek maması ve diyete uygun beslenme ile ortalama yaşam beklentisi 12 ile 15 yıl arasında değişiklik gösterdiği bilinmektedir. Diğer pek çok köpek cinsinde olduğu gibi Beagle köpeği içinde bazı kalıtsal hastalıklar görülebilmektedir.
+
+Köpeğinizin her daim sağlıklı bir hayat sürmesi için kişisel bakım uygulamalarını ihmal etmeyiniz. Ayrıca beslenme, rutin egzersiz, temizlik ve veteriner muayenesi oldukça önemlidir. Vücut direncinin her daim yüksek kalması ve bağışıklık sisteminin korunması için Beagle köpeğinize aşı uygulamaları yaptırmayı ihmal etmeyiniz. \n\n
+\t<b>4) Beagle Köpek Bakımı</b> \n\n
+\t Diğer köpek cinslerine olduğu gibi Beagle köpeğinin de ciltlerinin her daim en iyi durumda kalması için düzenli bakım yapılması önerilmektedir. Haftalık olarak taramanız yeterli olacağı gibi nemli bir bez ile silebilirsiniz. Beraberinde yılda birkaç defa banyo yaptırmanız önerilmektedir. Ayak sağlığının korunması için aylık tırnak kesilmesi önerilir. Ayrıca her daim sağlıklı ve formda kalması için kaliteli köpek maması ve bolca egzersiz uygulanmalıdır. Bakteri ve mikroplara karşı hijyenik ortamda büyütülmelidir. Bahçe ortamında büyütülecekse zehirli otlara karşı önlem almanız şarttır. \n\n
+\t<b>5) Beagle Köpeği Çocuklar ve Diğer Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Genç yaştan itibaren iyi sosyalleştirilmesi durumunda çocuklarla oldukça iyi geçinebilmektedir. Özellikle aile ortamında sürekli gördüğü çocuklara karşı daha ilgili olduğu söylenmektedir. Beraberinde daha küçük çocuklara istemsizce zarar verebilmektedir. Bu ısırma yada çarpmadan kaynaklı olabilir. Ayrıca çocukların yemek yerken yanlarına pek yaklaşmamaları önerilmektedir. Diğer evcil hayvanlarla olan arkadaşlığında da eğitilmesi önemlidir. Doğru bir şekilde alıştırılması durumunda kedi ve köpeklerle son derece sıkı arkadaşlıklar kurabilmektedir. Ancak daha küçük evciller olan kuş, hamster vb. türlere zarar verebilmektedir. Özellikle bu türün yabancı evcillerle bir araya getirildiğinde oldukça kontrollü olunması gerekmektedir. Beraberinde bahçenizde dolaşırken bir kediye saptanması durumunda onu kovalayarak evden hızla ulaşabilmektedir. Bu tür doğası gereği kaçmaya meyillidir. \n\n
+
+</item>
+
+        <item>\n
+\t<b>1) Mavi Rus Kedisi Bakımı ve Özellikleri </b>\n\n
+\t Mavi Rus, parıltılı görünümü ve zarif vücut yapısı ile Rusya’ya özgü bir kedi türüdür. Kedi dünyasının düşünürleri olarak adlandırılan bu sevimli dostumuz muazzam tüy rengi ile tam zıt olan zümrüt yeşili gözlere sahiptir. Güleç suratı ile görenleri kendine hayran bırakan Mavi Rus kedisi orta boy kedi ırkları arasında yer almaktadır. Son derece zeki kişiliği ve insancıl doğası ile günümüzde ailelerin favori kedisi olma özelliğine sahiptir. Ayrıca bu tür en pahalı kedi ırklarından bir tanesidir.
+            İlk olarak Rus limanında ortaya çıkan bu tür, İngiltere başta olmak üzere bir çok farklı ülkenin yanında getirdiği kediler ile çiftleşmesi sonucunda ortaya çıktığı söylenmektedir. Ancak Mavi Rus kedisi Rus düğünlerined gelinlere armağan edilen bir kedi olduğu eski fotoğraflardan iddia edilmektedir. Yapılan araştırmalar neticesin türün İngiliz Blues, Blue Point ve modern Rus kedilerinin soyundan geldiğine inanılmaktadır. 1880 yılında Kristal Sarayın’da düzenlenen etkinlikte görücüye çıkan Mavi Rus kedisi hızla tüm dünyada geniş kitlelere yayılmayı başarmıştır. \n\n
+\t<b>2) Mavi Rus Kedisi Kişiliği</b> \n\n
+\t Mavi Rus kedisi doğası gereği oldukça nazik bir kişiliğe sahiptir. Özellikle dişi türleri erkeklere göre oldukça sessiz bir yapıdadır. Aşırı derecede şefkatli oldukları da bilinmektedir. Bu da türün insanlar tarafından popüler bir ırk olmasına yetmektedir. Hoşgörüsü ile kendine büyüleyen Mavi Rus kedisi çocuklar ile iyi geçinebildiği gibi bebekler ile dahi oldukça sevecek hareketler sergilemektedir.
+            Diğer kedi türlerinde olduğu gibi rutin bir hayattan hoşlanan Mavi Rus kedisi ayrıca dışarıda vakit geçirmekten de zevk almaktadır. Alıştırmanız durumunda evinizin çevresinde hoşça vakit geçirebilen ender bir türdür. Ayrıca uyku saatleri dışında her daim bir şeyler ile meşgul olmak isteyen Mavi Rus kedisi için ona iyi bir dostluk yapacak evcil bir hayvan edinebilirsiniz. Türün bir diğer büyüleyici özelliği ise tanımadıkları insanlardan uzak durmasıdır. İlk önce karşısında ki kişiyi inceleme eğilimine giren Mavi Rus kedisi tehlike hissetmemesi durumunda sevecen kişiliğini göstermektedir. Ayrıca sahibi ile her daim vakit geçirmekte olan yapısı ile bilgisayar klavyelerinin başında bekleyen kedi olarak bilinmektedir. \n\n
+\t<b>3) Mavi Rus Kedisi Bakımı</b> \n\n
+\t Mavi Rus kedisi sağlıklı ve uzun ömürlü bir yaşam sürmesi için titiz bir bakım uygulaması gerektirmektedir. Her daim kaliteli kedi maması ve uygun çevre koşullarının sağlanması Mavi Rus kedisinin sağlıklı bir yaşam sürmesine katkı sağlamaktadır. Özellikle ölü tüylerden kolayca kurtulması için haftada birkaç defa taranması gerekmektedir. Ayrıca ılık bir banyo da bu sevimli dostumuzun rahatlamasına yardımcı olacaktır.
+            Mavi Rus kedisi bakım uygulamalarında düzenli diş fırçalanması ağız içerisinde oluşabilecek enfeksiyonlara karşı en etkili çözüm olacaktır. Günde bir defa kedinizin dişini fırçalamanız yeterlidir. Ayrıca kulaklarını nemli ve yumuşak bir bez yardımı ile haftada bir defa silmeniz kulak sağlığı için önemlidir. Beraberinde kedinizin size ve çevresine zarar vermemesi için tırnaklarını rutin olarak kesmeniz de fayda var. Bu işlem için kedi tırmığı kullanarak doğal yollar ile kolayca kırılmasına yardımcı olabilirsiniz. \n\n
+\t<b>4) Mavi Rus Kedisi Sağlık Durumu</b> \n\n
+\t Dünyanın en sağlıklı kedileri arasında yer alan Mavi Rus kedisi, düzenli beslenme ve diyet uygulamaları ile ortalama yaşam süresi 15 ile 20 yıl arasında değişiklik göstermektedir. Yaşam süresi en uzun kedi ırkları arasında yer almaktadır. Ayrıca Mavi Rus kedisinin bilinen hiçbir kalıtsal hastalığı da bulunmamaktadır.
+            Kedinizin her daim sağlıklı ve uzun ömürlü yaşaması için bakım uygulamalarını düzenli olarak gerçekleştirmeniz gerekmektedir. Özellikle beslenme konusunda hassas olmanızda fayda var. Mavi Rus kedisinin damak lezzetine uygun birbirinden farklı tahıllı, tavuklu, sebzeli, etli, balıklı, meyveli ve sebzeli kaliteli kuru ve yaş mama tercih edebilirsiniz. Ayrıca bağışıklık sisteminin her daim güçlü kalması için rutin aşı uygulamalarını ihmal etmeyiniz. \n\n
+\t<b>5) Mavi Rus Kedisi Çocuklar ve Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Mavi Rus kedisi enerjik, zeki bir kedi olmasından dolayı çevresi ile iç içe olmaktan mutluluk duymaktadır. Her daim interaktif oyunlar ile meşgul edilmekten ve fırlatılan oyuncağı alma konusunda usta bir yapıya sahiptir. Böylelikle kendileri ile ilgilenilmesinde hoşlanan kişiliği çocuklar ile iyi geçinmesini sağlamaktadır. Her daim zararsız hareketleri ile bir hayli zarif davranışlar sergilemekte olan Mavi Rus kedisi çocuklu aileler için ideal bir ev kedisi olma özelliğine sahiptir.
+            Diğer evcil hayvanlar ile oldukça iyi geçinebilen Mavi Rus kedisi genellikle kedi ve köpekler ile daha iyi anlaşmaktadır. Ancak bazı hareketli evcillerden kendini korumak için istemsizce zarar verebilmektedir. Bu yüzden Mavi Rus kedisini bir diğer evcil ile aynı ortamda bulundurduğunuzda dikkatli olmanızda fayda var. Yetiştiriciler bu türün bebeklikten beri aynı evin içerisinde büyütülen diğer evciller ile kalıcı dostluk sağladığını söylemektedir. \n\n
+
+</item>
+
+        <item>\n
+\t<b>1) İran Kedisi Bakımı ve Özellikleri</b>\n\n
+\t İran kedisi, dünyanın en eski kedi ırklarından bir tanesi olma özelliği ile varoluşunu sır gibi saklamaktadır. İran kedisi muazzam görünümü ve gizemli kişiliği ile dünyanın en popüler kedi ırkları arasında yer almaktadır. Muhteşem tüy yapısı ve enteresan bakışı ile görenleri kendine hayran bırakan İran kedisi bir çok kedi türünün de atası olarak kabul edilmektedir.
+            Yüzyıllar boyunca var olduğuna inanılan İran kedisi ilk olarak 1871 yılında İngiltere’de sergilendiği bilinmektedir.  Ancak bu ırk ilk olarak 1620 yılında İtalya’nın İran’dan ithal ettiği malzemeler ile keşfedildiği söylenmektedir. Ayrıca farklı bir inanışa göre İran kedisi ile Ankara kedisinin aynı cins olduğu düşünülmektedir. Adından da anlaşıldığı gibi İran’a özgü bu sevimli dostumuz hemen her iklim koşullarına uygun vücut yapısı ile dünyanın bir çok farklı noktasında evcil hayat sürmektedir. \n\n
+\t<b>2) İran Kedisi Kişiliği</b> \n\n
+\t İran kedisi nazik, sevecen ve sakin yapısı ile tanınan bir kedi türüdür. Oldukça insancıl doğası ile her daim kucakta olmaktan büyük mutluluk duyan bu tür, sahipleri ve çevresi tarafından her daim ilgi odağı olmak istemektedir. Ayrıca kendisi ile ilgilenilmesi durumunda oldukça güçlü bir bağlılık kurduğu bilinmektedir. Sahibine bir kez alışması durumunda hemen her anında yanında bulunan İran kedisi bir hayli zeki olması ile de bilinmektedir. İran kedisi dünya üzerinde Persian olarak adlandırılmaktadır.
+            Sessiz ver sakin kişiliği gereğince gürültülü ortamlarda bulunmaktan hoşlanmayan İran kedisi genellikle karmaşanın olmadığı ortamlar için daha uygundur. Ayrıca her zaman sevilme konusunda da istekli olmayan kişiliği sahibi ve çevresi tarafından fazla ilgilenilmesi halinde odalara kaçışmasına neden olacaktır. Dünyanın en popüler kedi ırkları arasında yer almasının en büyük sebebi ise uysal kişiliğidir. Genellikle zıplamak, koşmak gibi eylemlerde bulunmayan İran kedisi evin bir köşesinde rahatça uzanmaktan zevk almaktadır. \n\n
+\t<b>3) İran Kedisi Bakımı</b> \n\n
+\t Diğer kedi ırklarında olduğu gibi İran kedisi de detaylı ve zahmetli bir bakım ihtiyacı duymaktadır. Özellikle muazzam bir görünüm kazanmasına yardımcı olan uzun tüy yapısının korunması için haftada birkaç kez taranması şarttır. Ayrıca yılda bir kez dahi olsa ılık bir banyo kedinizin rahatlamasına yardımcı olacaktır.
+            Uzun tüy katlarının bakımını kedi kuaföründe gerçekleştirebileceğiniz gibi tırnaklarının size ve çevresine zarar vermemesi için düzenli kesim yapılması gerekmektedir. Ayrıca tırnak bakımını evinize alacağınız kedi tırmığı ile kolaylaştırabilirsiniz. Çok sık olmada ayda birkaç sefer kulaklarını nemli bir bez ile silmeniz de oldukça iyi olacaktır.
+            İran kedisi diğer kedi türlerinde de olduğu gibi rutin beslenme hayatından hoşlanmaktadır. Buna bağlı olarak günün belirlenmiş saatlerinde mama tüketimini sağlamanız gerekmektedir. Ayrıca kullanacağınız mamalarda kedinizin damak lezzetine uygun kaliteli mama tüketimi yapmanız gerekmektedir. Kedinizin mama kabının her daim temiz olmasına dikkat ediniz. Ayrıca kum ve su kabını da temizlemeyi unutmayınız. \n\n
+\t<b>4) İran Kedisi Sağlık Durumu</b> \n\n
+\t İran kedisi genel anlamda oldukça sağlıklı bir ırk olarak kabul edilmektedir. Ortalama 3 ile 6 kilo arasında değişiklik göstermekte olan bedeni sağlıklı beslenme ve uygun diyet ile uzunca yıllar kendini korumaktadır. Genellikle bir İran kedisinin yaşam süresi 15 ile 18 yıl arasında değişiklik gösterdiği söylenmektedir.
+            Karışık bir ırk olan İran kedisi sağlıklı bir ırk olarak kabul edilse de genellikle nefes almada zorlanan bir ırk oldukları söylenmektedir. Bununla beraberinde İran kedisinde görülebilen bazı kalıtsal hastalıklarda olabilmektedir. Özellikle böbrek hastalığı, solunum sorunları, göz problemleri ve cilt hastalıkları görülebilmektedir.
+            İran kedinizin her daim sağlıklı ve uzun ömürlü kalması için düzenli veteriner kontrolüne sokmanız gerekmektedir. Ayrıca bakteri ve mikroplara karşı vücut direncini kuvvetlendirecek aşı uygulamalarını da ihmal etmeyiniz. Aşı ile beraberinde kilo almaya meyilli bu ırk her daim yaşına uygun mamalar ile beslenmesi gerekmektedir. \n\n
+\t<b>5) İran Kedisi Çocuklar ve Evcil Hayvanlar İle İletişimi</b> \n\n
+\t İnsancıl kişiliği ile ön plana çıkan İran kedisi, sakin tavırları ile çocuklu aileler için mükemmel bir kedi seçimi olacaktır. Özellikle çocukların kendisine nazik ve sessiz davranması durumunda inanılmaz bir bağlılık kurabilen bu sevimli dostumuz her daim vakit geçirmekten ve yanınıza kıvrılıp uyumaktan mutlu olmaktadır. Ancak çocuklarınızın İran kedisinin yanında nasıl davranmaları gerektiği konusunda uyarmanız da fayda var. Aşırı ses yapılması durumunda bulunduğu ortamı hızlıca terk ettiği bilinmektedir.
+            Özellikle birlikte büyütülmesi durumunda diğer evcil hayvanlar ile bir hayli iyi geçinebilen İran kedisi, kedi ve köpekler ile sağlıklı bir arkadaşlık kurabilmektedir. Ancak başta belirttiğimiz gibi sessiz ve nazik doğası gereği aşırı ses ve gürültüden hoşlanmaması nedeniyle çevresinde fazla ses yapan hayvanlardan uzak durmayı tercih etmektedir. \n\n
+
+</item>
+
+        <item>\n
+\t<b>1) Siyam Kedisi Bakımı ve Özellikleri</b>\n\n
+\t Siyam, dünyanın en eski kedi ırklarından bir tanesi olarak kabul edilmektedir. Bir çok kedinin de atası olan bu tür en popüler kedi ırkları arasında yer almaktadır. Mas mavi gözleri ile son derece çekici olan bu sevimli dostumuz, diğer kedilerden görünümü itibari ile kolayca ayırt edilebilmektedir. Vücudunun farklı noktalarında ki renk geçişleri ile bir hayli sevecen görünüme sahiptir. Özellikle ev içerisinde fazla zaman geçiren bireyler için mükemmel bir ev kedisi olacağını söyleyebiliriz.
+            Tayland’a özgü olan Siyam kedisi kutsal kedi ünvanı ile Budist tapınaklarını korumak için kullanıldığı söylenmektedir. Ayrıca herhangi bir lideri ödüllendirmek için Siyam yavrusu armağan edildiği de rivayetler arasında yer almaktadır. Eski zamanlarda bir Siyam kedisinin çalınması idam cezası ile sonuçlandırıldığı dahi söylenmektedir. Kısacası bu küçük dostumuz dünyaya geldiği ilk günden bu yana bir hayli değerli sayılmaktadır. \n\n
+\t<b>2) Siyam Kedisi Kişiliği</b> \n\n
+\t Doğası gereği oldukça konuşkan bir yapıya sahip olan Siyam kedisi çevresi ile muhabbet etmekten hoşlanmaktadır. Sahibi ile güçlü bağlar kurabilen bu sevimli dostumuz mutlu yada mutsuz oluşunu ses tonu ile belli etmektedir. Her daim ilgi gösterilmesini bekleyen nazlı tavırları ile dikkatleri üzerine çekecektir. Ayrıca yalnız kalmaktan hoşlanmadığı söylenmektedir. Bu yüzden yoğun çalışan aileler için önerilmemektedir. Eğer ki yavruluktan itibaren diğer bir evcil hayvanla birlikte büyütülürse onunla vakit geçirerek sıkılmayacağı söylenmektedir.
+            Enerjik, akıllı ve zeki yapısı ile her daim yeni şeyler öğrenme konusunda oldukça hızlı olduğu bilinmektedir. Siyam kedisi getir-götür gibi interaktif oyunlarda da bir hayli başarılıdır. Şirinlik için kendisini yerlerde sürümekten ve sahibinin peşine takılıp odadan odaya gezmekten asla vazgeçmemektedir. Ayrıca kedinize alacağınız kedi oyuncakları ile onu meşgul edebileceğinizi unutmayınız. \n\n
+\t<b>3) Siyam Kedisi Bakımı</b> \n\n
+\t Siyam kedisi sağlıklı ve uzun ömürlü bir yaşam sürebilmesi için düzenli bakım uygulamalarının yapılması oldukça önemlidir. Özellikle kediniz için seçeceğiniz besinlerde kaliteli mamalar ve yaşına uygun diyet uygulamalarını sağlamanız, Siyam kedisi için oldukça önemli olacaktır.
+            Tüy bakımı için haftada birkaç kez taramanız Siyam kedisinin ölü tüylerden arınmasına yeterli olmaktadır. Pek duş almayı sevmese de sıcak havalarda ılık bir banyo da rahatlamasına yardımcı olacaktır. Beraberinde tırnak bakımı için düzenli kesim işlemleri sağlamanız gerekmektedir. Ayrıca kedi tırmığı ile tırnak bakımının korunmasını kolaylaştırabilirsiniz.
+            Siyam kedisi yaşamsal faaliyetlerini en üst düzeyde tutmak için düzenli aşı işlemlerinin uygulanması diğer kedi türlerinde olduğu gibi bu türde de bir hayli önemlidir. Özellikle doğumundan yetişkinliğine kadar geçen sürede veteriner hekim tarafından aşı işlemlerinin sağlanması, Siyam kedisinin bağışıklık sistemini koruduğu gibi vücut direncini de yükselttiği bilinmektedir. \n\n
+\t<b>4) Siyam Kedisi Sağlık Durumu</b> \n\n
+\t Görünümü ile oldukça sağlıklı bir ırk kabul edilen Siyam kedisi bazı kalıtsal hastalıklardan muzdarip olabilmektedir. Özellikle yetiştiricilerin Siyam kedilerinde sıklıkla karşılaştığı kalıtsal hastalıklar progresif retina atrofisi, mukopolisakkaridoz, gangliosidosis, kalça haslaığı, lenfoma, bağırsak tümörü, kusma, kronik öksürük ve sistemik amiloidoz olarak belirtilmektedir. Tüm bu vakaların önüne geçmek için Siyam yetiştiricilerinin damızlıkları testten geçirmesi gerekmektedir.
+            Doğru beslenme ve çevre koşullarının sağlanması durumunda Siyam kedisi ortalama yaşam süresi 15 ile 20 yıl arasında değişiklik göstermektedir. Bu da onu dünyanın en uzun ömürlü kedilerinden bir tanesi yapmaktadır. Ayrıca diğer kedi ırklarında olduğu gibi Siyam kedisinde de kaliteli ve sağlıklı bir yaşam sürmesi için her daim damak lezzetine uygun en iyi kedi mamaları ile beslenmesi gerekmektedir. Yavruluk döneminde yavru kedi maması, yetişkinlik döneminde ise yetişkin kedi maması kullanımı oldukça önemlidir. Sağlık sorunlarının önüne geçmenizde ki bir diğer kısas ise kedinizi her daim muayene ve aşı uygulamalarına götürmeniz olacaktır. \n\n
+\t<b>5) Siyam Kedisi Çocuklar ve Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Sıra dışı kişiliği ve sevgi dolu hareketleri ile çocuklu ailelerin her zaman en iyi tercihi olmuş Siyam kedisi çevresi ile oldukça iyi geçinmektedir. Bu yapısı Siyam kedisinin çocuklar ile güçlü bağ kurmasına yetmektedir. Her daim oyun oynamaktan ve koşuşturmaktan zevk alan bu sevimli dostumuz, aşırı sesli ortamlardan kaçınmaktadır. Ancak alışması halinde küçük çocuklarla dahi baş başa uyuyabilmektedir.
+            Özellikle birlikte büyümesi durumunda köpekler ile oldukça iyi geçinen Siyam kedisi, diğer evcil hayvanlarla da sıkı bir arkadaşlık kurmaktadır. Yabancı evcillere karşı her daim dikkatli tavırlar sergilemekte olan bu tür, kendisini tehlikede hissetmesi durumunda savunmaya geçebilmektedir. Bu yüzden Siyam kedisini yeni bir hayvan ile tanıştıracağınızda oldukça dikkatli olmanızda fayda var. \n\n
+
+</item>
+
+        <item>\n
+\t<b>1) Scottish Fold Bakımı ve Özellikleri</b>\n\n
+\t Scottish Fold, kıvırcık ve büyük kulakları, parlak gözleri ile benzersiz bir görünüme sahiptir. Dünyanın en popüler kedi ırklarının başını çeken bu sevimli dostumuz aşağı bakan kulak şekli ile diğer türlerden kolayca ayırt edilebilmektedir. Tüm dünyada hızla yayılan bu tür sevimli ve tatlı görünümü ile görenleri kendine hayran bırakmaktadır.
+            İlk olarak 1960’lı yılların başında William Ross adlı çobanın ahırda bulduğu Scottish Fold kedisi İran, Exotic Shorthair, American Shorthair ve Birman kedisinin çiftleştirilmesi ile gen havuzu genişletildiği bilinmektedir. İlk kedinin adı Susie olarak adlandırıldığı ve atalarının kulakları aşağı doğru kıvrılmış olmasından dolayı bu şekilde devam ettiği söylenmektedir. Adından da anlaşıldığı gibi İngiltere’ye özgü olan bu ırk günümüzde dünyanın hemen her noktasında kedi severler tarafından ideal bir ev kedisi olma özelliği taşımaktadır. \n\n
+\t<b>2) Scottish Fold Kişiliği</b> \n\n
+\t Scottish Fold kedisi diğer kedi türleri gibi rutin bir hayattan hoşlanmaktadır. Özellikle günün aynı saatinde beslenmek, oyun oynamak ve uyumak onun için oldukça önemlidir. Saf olması ile bilinen bu tür insanların peşine takılmaktan ve nereye giderseniz peşinizden gelme konusunda bir hayli kararlıdır. Sahibini de ev içerisinde odadan odaya takip ettiği söylenmektedir. Ayrıca akıllı ve zeki yapısı sayesinde yeni şeyler öğrenme konusunda oldukça hızlı olduğu da bilinmektedir.
+            Scottish Fold kedisinin yaptığı en iyi şeylerden bir tanesi arka bacaklarının üzerine oturarak dakikalarca etrafı izlemesi olacaktır. Oldukça tatlı hareketler sergilemekten asla vazgeçmeyen bu sevimli dostumuz akan muslukların başından da ayrılmamaktadır. Kişiliği her daim adeta bir bebeği andıran Scottish Fold kedisi yalnız bırakılmaktan asla mutlu olmamaktadır. Bu yüzden her daim yanında birinin bulunması oldukça önemlidir. \n\n
+\t<b>3) Scottish Fold Bakımı</b> \n\n
+\t Scottish Fold kedisi sağlıklı ve uzun ömürlü bir yaşam sürmesi için titiz bir bakım uygulaması gerektirmektedir. Her daim kaliteli kedi maması ve uygun çevre koşullarının sağlanması Scottish Fold kedisinin sağlıklı bir yaşam sürmesine katkı sağlamaktadır. Özellikle ölü tüylerden kolayca kurtulması için haftada birkaç defa taranması gerekmektedir. Ayrıca ılık bir banyo da bu sevimli dostumuzun rahatlamasına yardımcı olacaktır.
+            Scottish Fold kedisi bakım uygulamalarında düzenli diş fırçalanması ağız içerisinde oluşabilecek enfeksiyonlara karşı en etkili çözüm olacaktır. Günde bir defa kedinizin dişini fırçalamanız yeterlidir. Ayrıca kulaklarını nemli ve yumuşak bir bez yardımı ile haftada bir defa silmeniz kulak sağlığı için önemlidir. Beraberinde kedinizin size ve çevresine zarar vermemesi için tırnaklarını rutin olarak kesmeniz de fayda var. Bu işlem için kedi tırmığı kullanarak doğal yollar ile kolayca kırılmasına yardımcı olabilirsiniz. \n\n
+\t<b>4) Scottish Fold Sağlık Durumu</b> \n\n
+\t Scottish Fold kedisi düzenli beslenme ve uygun çevre koşullarının sağlanması durumunda ortalama yaşam beklentisi 12 ile 15 yıl arasında değişiklik göstermektedir. Tür görünümü itibari ile bir hayli sağlıklı bilinse de bazı kalıtsal hastalıklardan muzdarip olabilmektedir. Özellikle Scottish Fold kedisinde rastlanan kalıtsal sorunlar;
+
+   \n\n\t• Eklem hastalıkları
+   \n\n\t• Böbrek hastalıkları\n\n\
+            Kedinizin her daim sağlıklı ve uzun ömürlü yaşaması için bakım uygulamalarını düzenli olarak gerçekleştirmeniz gerekmektedir. Özellikle beslenme konusunda hassas olmanızda fayda var. Scottish Fold kedisinin damak lezzetine uygun birbirinden farklı tahıllı, tavuklu, sebzeli, etli, balıklı, meyveli ve sebzeli kaliteli kuru ve yaş mama tercih edebilirsiniz. Ayrıca bağışıklık sisteminin her daim güçlü kalması için rutin aşı uygulamalarını ihmal etmeyiniz. \n\n
+\t<b>5) Scottish Fold Çocuklar ve Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Scottish Fold kedisi doğası gereği sakin ve nazik tavırları ile ön plana çıkmaktadır. Genellikle mıy mıy davranmaktan büyük zevk alsa da etkileşimli oyunlarda bir hayli başarılı olduğu görülmektedir. Bir kağıt parçasının peşine takılıp saatlerce yuvarlanmaktan büyük zevk aldığı söylenebilir. Bir hayli zararsız olarak bilinen Scottish Fold kedisi çocuklar ile iyi geçinebilmektedir. Hatta sahiplerin küçük çocuklar ile dahi bir hayli iyi geçindiği onlara olabildiğince nazik davrandığı anlatılmaktadır. Bu yüzden Scottish Fold kedisi çocuklu aileler için en ideal kedi seçimi olabilir. \n\n
+
+</item>
+
+        <item>\n
+\t<b>1) Ankara Kedisi Bakımı ve Özellikleri</b>\n\n
+\t Ankara kedisi, zarif ve nazik yapısı ile oldukça akıllı bir kedi türüdür. Görünümü adeta bir pelüş oyuncağı andıran bu sevimli dostumuz %100 yerli ırklarımız dan bir tanesi olarak bilinmektedir. Dünya üzerinde Van kedisi kadar Ankara kedisi de bir hayli popülerliğini korumaktadır. Ayrıca dünyanın en eski ve en değerli kedi ırklarından bir tanesi olduğu söylenmektedir. Muazzam tüy yapısı ve eğlenceli kimliği ile dikkat çeken Ankara kedisi, çocuklu aileler için mükemmel bir seçim olacaktır.
+            Adından da anlaşıldığı gibi Türkiye’nin Ankara iline özgü bu tür, yüzyıllardır soyunu devam ettirmeyi başarmıştır. Tamamen doğal mutasyon sonucunda meydana gelmiş bu sevimli dostumuz bir hayli sağlıklı bir ırktır. Ayrıca Ankara kedisi dünya üzerinde ki bir çok kedi türünün de atası olduğu bilinmektedir. Bembeyaz tüy yapısı mavi, yeşil ve altın göz rengi ile görenleri büyülemektedir. 1950 yılında Amerikan askerlerinin Atatürk Orman Çiftliğinde keşfetmesi ile yeni bir ıslah projesi başlatılmıştır. Ancak tür dünya tarafından bir ırk olarak kabul edilmemiş olsa da Ankara kedisine sahip olmak isteyenlerin uzunca bir süre beklemesi gerekecektir. \n\n
+\t<b>2) Ankara Kedisi Kişiliği</b> \n\n
+\t Her daim meşgul olmaktan hoşlanan kişiliği ile dikkat çeken Ankara kedisi, bir hayli hareketli ve oyuncu bir ırktır. Etkileşimli ve interaktif oyunlarda usta kişiliği adeta bir köpek gibi getir götür oyunlarında başarısını göstermektedir. Ayrıca çevresine duyarlı yapısı aile ve diğer bireyler ile her daim güçlü bağlar kurmasına olanak sağlamaktadır. Ankara kedisinin bilinen bir diğer özelliği ise sahibinin yanından ayrılmayışıdır. Nereye giderseniz peşinize takılan bu sevimli dostumuz, gece uykularınız da size eşlik etmekten de asla çekinmemektedir.
+            Rutin bir hayattan hoşlanan Ankara kedisi genellikle günün aynı saatinde beslenme, oyun ve uyku faaliyetlerini göstermektedir. Son derece atletik ve çevik yapısı onu her daim hızlı yapmaya yetmektedir. Ayrıca meraklı yapısı ile her şeye dahil olmaktan hoşlanmaktadır. İlgi konusunda oldukça hassas olduğu söylenmesi ile beraberinde sevilmeyi her daim beklemektedir. Kendisine alacağınız bir oyunca onun yerlerde taklalar atması için yeterli olacaktır. Doğası gereği son derece konuşkan olması size bir şeyler anlatmaktan asla vazgeçmeyeceğini göstermektedir. \n\n
+\t<b>3) Ankara Kedisi Bakımı</b> \n\n
+\t Ankara kedisinin her daim sağlıklı ve uzun ömürlü bir yaşam sürebilmesi için bakım uygulamalarının aksatılmadan gerçekleştirilmesi gerekmektedir. Uzun ve kabarık tüy yapısı ile düzenli olarak taranması gereken bu sevimli dostumuz, kedi fırçası ile ölü tüylerinden kolayca arınabilmektedir. Ayrıca ılık bir banyo Ankara kedisinin pürüzsüz ve parlak görünmesi için yeterli olacaktır.
+            Tüy bakımının yanı sıra tırnak bakımının da aksatılmadan yapılması gereken Ankara kedisi, kedi tırmığı yardımı ile kolaylıkla ölü tabakadan kurtulabilmektedir. Ancak kedi tırmığı ile oynamaması durumunda tırnak bakım uygulamalarını kedi kuaförü yada veteriner kliniklerinde kolaylıkla gerçekleştirebilirsiniz.
+            Ankara kedisi oyuncu ve enerjik kişiliği ile evin bir köşesinden diğer köşesine her daim hareketlilik göstermektedir. Bu yüzden evinizde sıklıkla tozlanma meydana gelecektir. Her daim düzenli ev temizliği siz ve kedi sağlığı açısından oldukça önemlidir. Kedinizin oyuncaklarını da duru su ile temizlemeyi ihmal etmeyiniz.
+            Kulak içlerinde oluşan toz, kir ve parazitlere karşı nemli bir bez ile haftada birkaç kez silmeniz yeterli olmaktadır. Kulak temizliğinde asla kulak çöpü kullanmayınız. Beraberinde kedinizin kum, su ve mama kabını düzenli olarak deterjan kullanmadan dezenfekte ettiğinizden emin olmanız gerekmektedir. \n\n
+\t<b>4) Ankara Kedisi Sağlık Durumu</b> \n\n
+\t Görünümü ile bir hayli sağlıklı bir ırk olarak bilinen Ankara kedisi, düzenli beslenme ve uygun çevre koşullarının sağlanması uzunca yıllar yaşayabilmektedir. Ortalama yaşam süresi 12 ile 18 yıl arasında değişiklik gösterdiği söylenmektedir. Ayrıca sağlıklı bir Ankara kedisinin ortalama vücut ağırlığı 2 ile 4 kilo olmaktadır. Yapılan araştırmalar neticesinde doğal mutasyon sonucunda meydana gelmiş bu türde rastlanılan herhangi bir kalıtsal hastalık bulunmamaktadır. Fakat bazı Ankara kedilerinde sağırlık görülebilmektedir.
+            Ankara kedisinin sağlıklı bir hayat sürmesi için beslenme oldukça önemlidir. Özellikle kedinizin damak lezzetine uygun tahıllı, somonlu, etli, tavuklu, meyveli ve sebzeli kuru ve yaş mama tüketiminde bulunabilirsiniz. Kediniz için seçeceğiniz besinlerin her daim kaliteli olmasında dikkat ediniz. Ayrıca yaşam süresini uzatmak için yavruluk döneminde yavru kedi maması, yetişkinlik döneminde yetişkin kedi maması tercih ediniz. Kilosunun belirtilen rakamların üzerine çıkması durumunda diyet kedi mamasına geçiş yapınız. Sağlıklı bir hayata sahip olmasının bir diğer koşulu ise düzenli veteriner kontrolü ve aşı uygulamaları olacaktır. Ankara kedinize yaptıracağınız aşı uygulamaları vücut direncinin her daim güçlü kalmasına yardımcı olmaktadır. \n\n
+\t<b>5) Ankara Kedisi Çocuklar ve Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Ankara kedisi sevgi dolu, nazik ve insancıl kişiliği ile çocuklu aileler için mükemmel bir seçim olacaktır. Her daim kendisine nazik davranılması durumunda çocukları incitmeden saatlerce vakit geçirdiği bilinmektedir. Ayrıca kendisi ile en çok ilgilenen çocuk ile sıkı bir bağ kurduğu söylenmektedir. Ancak daha küçük çocuklar ile herhangi bir problem yaşanmaması için yalnız bırakılmaması gerekmektedir.
+            Çocuklarla olduğu kadar diğer evcil hayvanlar ile de oldukça iyi geçinebilen Ankara kedisi, özellikle yoğun iş temposuna sahip ailelerin yanına alacakları evciller ile iyi bir arkadaşlık kuracaktır. Kedi ve köpek başta olmak üzere her daim hareketli yapıya sahip olduğun bilinmektedir. Daha iyi bir arkadaşlık için Ankara kedisinin yavruluktan itibaren diğer evciller ile aynı ortamda büyütülmesi önerilmektedir. Doğası gereği bir hayli sosyal kişiliği onu daha küçük evciller ile baş başa bırakmamanız gerektiğini göstermektedir. \n\n
+
+</item>
+
+        <item>\n
+\t<b>1) Van Kedisi Bakımı ve Özellikleri</b>\n\n
+\t Van kedisi, ilk olarak Doğu Anadolu bölgesinin Van Gölü çevresinde rastlanmış çok eski bir ırktır. Ülkemizin simgesi haline gelmiş bu tür dünyanın en popüler kedi ırkları arasında yer almaktadır. Yarı uzun tüy yapısı ve iki farklı göz rengine sahip Van kedisi, görenleri kendine aşık etmektedir. Dünya üzerinde ki bir çok ırkında atası olan bu sevimli dostumuz bembeyaz tüyleri ile dünyanın her noktasında Van kedisi olarak tanınmaktadır. Ayrıca sıcak havalarda Van Gölü’ne girerek serinlediği söylenen bu tür, yüzücü Türk kedisi ünvanına sahiptir.
+            Doğal mutasyon sonucunda meydana gelmiş Van kedisi, ülkemizde sıklıkla görülse de dünyanın diğer bölgelerinde ender rastlanmaktadır. Oldukça değerli bir ırk olması her daim ilgi görmesine sebep olduğu söylenmektedir. Efsaneye göre sele kapılan Nuh’un Gemisi, Ağrı Dağı’na gelmesi sonucunda dağdan aşağı inerek Van Gölü çevresinde toplandığı söylenmektedir. Ayrıca bir başka rivayete göre omuzlarında ki farklı lekeler ile Tanrı’nın kutsal kedisi olarak anılmaktadır. 19. Yüzyıl insanları Van kedisinin pazarlarda sergilenen halı ve kilimlerin üzerinde görüldükleri söylenmektedir. 1955 yılında iki İngiliz kadının Türkiye’den aldığı bu tür, gen havuzuna dahil edilerek 1969 yılında İngiltere’de şampiyonluk ödülüne layık görülmüştür. \n\n
+\t<b>2) Van Kedisi Kişiliği</b> \n\n
+\t Zeki, insancıl ve sevgi dolu kişiliği ile nam salmış Van kedisi, sahibi ile güçlü bağ kurabilmektedir. Çevresine her daim ilgili olan bu tür insan ilişkileri konusunda oldukça ustadır. Ayrıca kırsal hayatta dünyaya gelmiş olmasından dolayı insanlar ile ilk karşılaşmasında biraz sert mizah sergileyebilmektedir. Ancak alışması durumunda sizden kopamayacak bir seviyeye geldiği bilinmektedir. Her şeyin yavruluk ile başladığı Van kedisinde, sahibine ve aile ortamına bağlılık ilgi istemektedir. Kendisine gösterilen özen ve sevgi karşısında her daim yanınızda olduğu söylenmektedir. Her daim oyuncu kişiliği ile güveninizi kazanması durumunda saatlerce palyaçoluk yapacaktır. Diğer kedi ırklarına nazaran Van kedisi suyu bir hayli çok sevmektedir. Bu da evinizin içerisinde akan muslukların yanı başında saatler geçirebileceği anlamına gelmektedir. \n\n
+\t<b>3) Van Kedisi Bakımı</b> \n\n
+\t Van kedisi sağlıklı bir yaşam sürmesi için her daim rutin bakım uygulamalarının yapılması gerekmektedir. Uzun ve kabarık tüy yapısında meydana gelen ölü tabakanın kalkması için her daim taranması oldukça önemlidir. Ayrıca tarama işlemlerinizin yanı sıra suyu sevmesi ile bilinen Van kedisini ılık bir duş ile rahatlatabilirsiniz. Bu uygulama yaşlı Van kedileri için daha sık yapılması gerekecektir. Kedi kozmetik ürünleri satış noktalarından alabileceğiniz tüy bakım spreyleri ile parlak ve sağlıklı görünümünü koruyabilirsiniz.
+            Tırnak bakımının tüm kedi cinslerinde olduğu gibi Van kedisinde de oldukça önemlidir. Bakteri ve mikropların ortadan kaldırılması için kedi kuaförü yada veteriner kliniğinden destek alabileceğiniz gibi kedi tırmığı ile doğal ortamda ölü tırnak dokusunun kırılmasına yardımcı olabilirsiniz. Van her daim zinde, güçlü ve sağlıklı kalması için yaşına uygun olarak aşılama işlemlerinin veteriner hekim kontrolünde düzenli olarak gerçekleştirilmesi gerekmektedir.
+            Van kedisi beslenmesi oldukça önemlidir. Sağlık durumunun her daim korunması için kaliteli kedi maması tüketmesi gerektiği söylenmektedir. Düzenli ve yeterli miktarda vereceğiniz öğünleri ile Van kedisinin her daim zinde kalmasını sağlayabilirsiniz. Ayrıca kedi kabı kullanarak suyunu her daim tazelemeniz önerilmektedir. Su, mama ve kum kapının deterjan kullanmadan düzenli olarak dezenfekte edilmesi gerektiğini unutmayınız. \n\n
+\t<b>4) Van Kedisi Sağlık Durumu</b> \n\n
+\t Van kedisi bilinen ırklar arasında en sağlıklı tür olduğu söylenmektedir. Herhangi bir kalıtsal hastalığa muzdarip olmayan bu tür, sağlıklı ve düzenli beslenme programı ile ortalama yaşam süresi 12 ile 17 yıl arasında değişiklik göstermektedir. Ayrıca sağlıklı bir Van kedisi ortalama 4 ile 8 kilo arasında olmaktadır.
+            Van kedisini güvenilir ve orijinal ırk garantili petshop mağazalarından almanızda fayda var. Van kedisi sağlıklı bir yaşam sürmesine olanak sağlayan en önemli durum beslenme olacaktır. Kedinize her daim kaliteli mama ve yaşına uygun mama tüketimi ile yaşam kalitesini en üst düzeyde tutabilirsiniz. Ayrıca bağışıklık sisteminin güçlenmesi ve mikrop, bakterilere karşı korunabilmesi için düzenli aşı uygulamalarını ihmal etmeyiniz. \n\n
+\t<b>5) Van Kedisi Çocuklar ve Evcil Hayvanlar İle İletişimi</b> \n\n
+\t Sevecen, nazik ve sıcakkanlı kişiliği ile bilinen Van kedisi çocuklu aileler için oldukça ideal bir evcil hayvan olduğu söylenmektedir. Her daim çağrılmaya meraklı kişiliği ile etkileşim içerisinde olmaktan hoşlanan bu küçük dostumuz özellikle küçük çocuklu ailelerin dikkatli bir şekilde aynı ortamı paylaşması önerilmektedir. Kendisine her daim nazik davranılması durumunda tüm aile bireyleri ile oldukça iyi geçindiği söylenmektedir.
+            Van kedisi çevresinde ki diğer evcil hayvanlarla oldukça iyi bit dostluk kurabilmektedir. Özellikle küçüklükten itibaren aynı evde büyütülmesi durumunda kedi ve köpekler ile daha iyi geçindiği bilinmektedir. Doğası gereği oldukça sosyal olan Van kedisi küçük evcil hayvanlardan kuş vb. türler ile uğraştığı bilinmektedir. Bu bakımdan dikkatli olmanızı öneririz. \n\n
+
+</item>
+
+    </string-array>
+
+
+
+
+</resources>
